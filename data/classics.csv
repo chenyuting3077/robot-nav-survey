@@ -65,7 +65,7 @@ perception-3d,2501.09898,FoundationStereo,NVIDIA,CVPR 2025,NVlabs/FoundationSter
 perception-3d,2501.12387,CUT3R,UC Berkeley / Google,CVPR 2025,CUT3R/CUT3R,https://cut3r.github.io/,,,持續狀態更新的串流 3D 重建
 perception-3d,2503.11651,VGGT,Oxford VGG / Meta,CVPR 2025,facebookresearch/vggt,https://vgg-t.github.io/,,,單次前向同時估相機、深度、點圖、追蹤
 perception-3d,2507.13347,π³,Shanghai AI Lab 等,arXiv,yyfz/Pi3,https://yyfz.github.io/pi3/,,,無參考視角的置換等變 feed-forward 重建
-perception-3d,2509.13414,MapAnything,Meta / CMU,arXiv,facebookresearch/map-anything,https://map-anything.github.io/,,,可接受多種輸入（內參、位姿、深度）的通用 feed-forward 重建
+perception-3d,2509.13414,MapAnything,Meta / CMU,3DV 2026,facebookresearch/map-anything,https://map-anything.github.io/,,,可接受多種輸入（內參、位姿、深度）的通用 feed-forward 重建
 perception-3d,2511.10647,Depth Anything 3,ByteDance Seed,arXiv,ByteDance-Seed/Depth-Anything-3,https://depth-anything-3.github.io/,,推薦,任意視角數的深度與位姿估計
 vision,2103.00020,CLIP,OpenAI,ICML 2021,openai/CLIP,,,,影像-文字對比預訓練，開放詞彙感知的起點
 vision,2111.06377,MAE,Meta,CVPR 2022,facebookresearch/mae,,,,遮罩自編碼自監督預訓練
@@ -150,7 +150,7 @@ vln,2605.06317,NavOne,SCUT,arXiv,,,,推薦,在預建俯視地圖上一步預測�
 vln,2511.17889,MobileVLA-R1,PKU,arXiv,AIGeeksGroup/MobileVLA-R1,https://aigeeksgroup.github.io/MobileVLA-R1/,,推薦,CoT 對齊加 GRPO 讓四足 VLA 推理並連續控制
 vln,2601.18188,NaVIDA,SUSTech / MBZUAI / SpatialTemporal AI,arXiv,waynechu1021/NAVIDA,,,推薦,加入逆動力學監督，學動作如何改變觀測
 vln,2502.00931,VL-Nav,Univ. at Buffalo / CMU,IROS 2026,,,,推薦,神經符號：3D 場景圖與影像記憶輔助 VLM 拆解任務
-vln,2602.19308,WildOS,NASA JPL / ETH 等,arXiv,nasa-jpl/nebula2-wildos,https://leggedrobotics.github.io/wildos/,,機構;推薦,戶外長程物件搜尋：稀疏導航圖加基礎模型可通行性推理
+vln,2602.19308,WildOS,NASA JPL / ETH 等,T-FR 2026,nasa-jpl/nebula2-wildos,https://leggedrobotics.github.io/wildos/,,機構;推薦,戶外長程物件搜尋：稀疏導航圖加基礎模型可通行性推理
 vln,2605.26500,3D Gaussian Map VLN,Zhejiang,ICCV 2025,Gaozzzz/3D-Gaussian-Map-VLN,,,推薦,線上建 3D 高斯地圖並做開放集語意分組
 vln,2605.26503,Uncertainty-Aware Gaussian Map,Zhejiang / Huawei,arXiv,Gaozzzz/Uncertainty-Aware-VLN,,,推薦,語意高斯地圖顯式建模幾何、語意、外觀不確定性
 vln,2606.00095,HSGM,ECNU / Bosch / KAUST,CVPR 2026,Teacher-Tom/HSGM_public,,,推薦,分層語意幾何地圖把 3D 資訊轉成 VLM 可用格式
@@ -158,16 +158,16 @@ vln,2606.01565,HSAN,HUST / NTU / UCL,NeurIPS 2025,,,,推薦,分層語意場景�
 semantic-map,2312.16084,LangSplat,Tsinghua / Harvard,CVPR 2024,minghanqin/LangSplat,https://langsplat.github.io/,,,以 3D Gaussian 承載 SAM 階層語意的 CLIP 語言場
 semantic-map,2103.15875,Semantic-NeRF,Imperial,ICCV 2021,Harry-Zhi/semantic_nerf,https://shuaifengzhi.com/Semantic-NeRF/,,獲獎,NeRF 同時編碼語意，少量標註即可補全場景標籤
 semantic-map,2307.06135,SayPlan,QUT / Univ. of Adelaide,CoRL 2023,,https://sayplan.github.io,,獲獎,LLM 在 3D 場景圖上語意搜尋做大尺度任務規劃
-semantic-map,2306.13631,OpenMask3D,ETH / Microsoft / Google,NeurIPS 2023,OpenMask3D/openmask3d,https://openmask3d.github.io/,,,多視角融合 CLIP 特徵的零樣本開放詞彙 3D 實例分割
+spatial,2306.13631,OpenMask3D,ETH / Microsoft / Google,NeurIPS 2023,OpenMask3D/openmask3d,https://openmask3d.github.io/,,,多視角融合 CLIP 特徵的零樣本開放詞彙 3D 實例分割
 semantic-map,2311.18482,LEGaussians,Beihang,CVPR 2024,buaavrcg/LEGaussians,,,,量化壓縮語言特徵嵌入 3D Gaussian 做開放詞彙查詢
-semantic-map,2309.12311,LLM-Grounder,Univ. of Michigan,ICRA 2024,sled-group/chat-with-nerf,https://chat-with-nerf.github.io/,,,LLM 當代理拆解查詢並呼叫工具做 3D 視覺定位
-semantic-map,2312.10671,Open3DIS,VinAI / UMass Amherst / MIT-IBM Watson AI Lab,CVPR 2024,VinAIResearch/Open3DIS,https://open3dis.github.io/,,,聚合跨幀 2D 實例遮罩補足 3D 開放詞彙實例分割
+spatial,2309.12311,LLM-Grounder,Univ. of Michigan,ICRA 2024,sled-group/chat-with-nerf,https://chat-with-nerf.github.io/,,,LLM 當代理拆解查詢並呼叫工具做 3D 視覺定位
+spatial,2312.10671,Open3DIS,VinAI / UMass Amherst / MIT-IBM Watson AI Lab,CVPR 2024,VinAIResearch/Open3DIS,https://open3dis.github.io/,,,聚合跨幀 2D 實例遮罩補足 3D 開放詞彙實例分割
 semantic-map,2401.01970,FMGS,Google,IJCV 2025,,https://xingxingzuo.github.io/fmgs,,,3DGS 結合多解析度雜湊編碼嵌入基礎模型特徵
 semantic-map,2402.12259,Open3DSG,Bosch / Ulm / TU Vienna,CVPR 2024,boschresearch/Open3DSG,https://kochsebastian.com/open3dsg,,,從點雲預測開放詞彙物件與開放集合關係的場景圖
 semantic-map,2411.17735,3D-Mem,UMass Amherst / CUHK / Columbia 等,CVPR 2025,UMass-Embodied-AGI/3D-Mem,,,,以多視角快照影像當 3D 場景記憶支援探索與推理
 semantic-map,2403.15624,Semantic Gaussians,BIGAI / Tsinghua,TCSVT 2026,sharinka0715/semantic-gaussians,https://semantic-gaussians.github.io,,,免訓練將 2D 預訓練模型語意蒸餾到 3D Gaussian
 semantic-map,2403.07494,SemGauss-SLAM,SJTU / Cambridge,IROS 2025,IRMVLab/SemGauss-SLAM,,,,語意特徵嵌入 3D Gaussian 的稠密語意 SLAM
-semantic-map,2401.07745,MaskClustering,PKU / BAAI / Galbot,CVPR 2024,PKU-EPIC/MaskClustering,,,,以視角共識率做遮罩圖分群的開放詞彙 3D 實例分割
+spatial,2401.07745,MaskClustering,PKU / BAAI / Galbot,CVPR 2024,PKU-EPIC/MaskClustering,,,,以視角共識率做遮罩圖分群的開放詞彙 3D 實例分割
 semantic-map,2503.19199,OpenFunGraph,Tsinghua / ETH / Microsoft 等,CVPR 2025,ZhangCYG/OpenFunGraph,https://openfungraph.github.io/,,,含功能元件與互動關係的開放詞彙功能性場景圖
 semantic-map,2504.06994,RayFronts,CMU,IROS 2025,RayFronts/RayFronts,,,機構,以語意射線前緣同時表示範圍內與超出範圍的語意
 semantic-map,2503.07909,FunGraph,Univ. of Stuttgart / Bonn,IROS 2025,DennisRotondi/FunGraph,https://fungraph.github.io,,,偵測可操作部件的功能感知 3D 場景圖
@@ -242,7 +242,7 @@ quadruped,2409.15610,DIAL-MPC,CMU,ICRA 2025,LeCAR-Lab/dial-mpc,https://lecar-lab
 quadruped,2506.09588,Attention Map Encoding,ETH / Disney Research,Science Robotics 2025,,,,,以本體感知為條件的注意力地圖編碼，泛化稀疏落腳地形
 quadruped,2408.13740,PIE,Zhejiang,RA-L 2024,,,,,單階段隱式＋顯式雙層估計的端到端跑酷策略
 quadruped,2404.19264,DiffuseLoco,UC Berkeley / Simon Fraser,CoRL 2024,HybridRobotics/DiffuseLoco,,,機構,從離線資料訓練擴散策略並即時跑在實機
-quadruped,2505.11164,Parkour in the Wild,ETH RSL,arXiv,,,,,多專家策略蒸餾後再 RL 微調的通用敏捷運動
+quadruped,2505.11164,Parkour in the Wild,ETH RSL,IJRR 2026,,,,,多專家策略蒸餾後再 RL 微調的通用敏捷運動
 quadruped,2506.02835,High-Speed Legged Navigation,KAIST,Science Robotics 2025,,,,,取樣式落腳規劃加物理模擬篩選的高速離散地形導航
 quadruped,2503.08564,MoE-Loco,Tsinghua / Shanghai Qi Zhi / MIT,IROS 2025,hrh6666/MoE-Loco,https://moe-loco.github.io/,,機構,混合專家緩解多任務 RL 梯度衝突，單策略跨地形
 quadruped,2501.01806,TRG-planner,KAIST,RA-L 2025,wasahaiah/TRG-planner,,,,以穿越風險圖兼顧地形安全與距離的路徑規劃
@@ -390,3 +390,47 @@ quadruped,DOI:10.1126/scirobotics.ade2256,Locomotion on Deformable Terrain,KAIST
 local-nav,2409.15634,NavRL,CMU,RA-L 2025,Zhefan-Xu/NavRL,,,推薦,PPO + 安全護盾的動態環境導航（原為無人機，方法可用於地面）
 vln,2108.11544,VLN Survey and Taxonomy,未確認,Neural Computing and Applications 2024,,,,推薦,VLN 任務分類與方法綜述
 real2sim,,World Labs Atlas,World Labs,部落格 2026,,,https://www.worldlabs.ai/blog/atlas,推薦,文字／影像／影片／3D 通用模型，可從手機影片重建場景並生成模擬用 RGB-D
+spatial,2401.12168,SpatialVLM,Google DeepMind / MIT / Stanford,CVPR 2024,,https://spatial-vlm.github.io/,,,用網路圖片加深度與物件偵測自動合成大規模 3D 空間問答，讓 VLM 能回答距離、大小等定量問題
+spatial,2307.12981,3D-LLM,UCLA / UMass Amherst / MIT-IBM Watson AI Lab,NeurIPS 2023,UMass-Embodied-AGI/3D-LLM,https://vis-www.cs.umass.edu/3dllm/,,,把多視角 2D 特徵提升成 3D 特徵輸入 LLM，一個模型做 3D 問答、描述、grounding
+spatial,2111.08897,ARKitScenes,Apple,NeurIPS 2021 Datasets and Benchmarks,apple/ARKitScenes,,,基準,用 iPad LiDAR 拍的大規模室內 RGB-D 資料集，附高精度雷射掃描與 3D 框
+spatial,2112.10482,ScanQA,Kyoto Univ. / RIKEN AIP,CVPR 2022,ATR-DBI/ScanQA,,,基準,提出 3D 問答任務與資料集：在室內掃描上回答空間問題並定位相關物件
+spatial,2406.01584,SpatialRGPT,UC San Diego / NVIDIA,NeurIPS 2024,AnjieCheng/SpatialRGPT,https://www.anjiecheng.me/SpatialRGPT,,,以區域提示加深度輸入，讓 VLM 對指定區域做相對方向與距離推理
+spatial,2205.00363,VSR,Univ. of Cambridge,TACL 2023,cambridgeltl/visual-spatial-reasoning,,,基準,圖文配對形式的空間關係 benchmark，顯示 VLM 在方位關係上遠落後人類
+spatial,2203.01509,SoftGroup,KAIST,CVPR 2022,thangvubk/SoftGroup,,,,點雲 3D 實例分割，以軟語意分數分群減少語意誤判造成的實例錯誤
+spatial,2311.18651,LL3DA,Fudan / Tencent PCG / NUS,CVPR 2024,Open3DA/LL3DA,https://ll3da.github.io/,,,直接吃點雲並接受點擊、框選等視覺提示的 3D 助理，做描述、問答與規劃
+spatial,2505.23747,Spatial-MLLM,Tsinghua,NeurIPS 2025,diankun-wu/Spatial-MLLM,https://diankun-wu.github.io/Spatial-MLLM/,,,在 2D 視覺編碼器旁加 VGGT 幾何編碼器，只用影片就提升 MLLM 的空間推理
+spatial,2312.08168,Chat-Scene,Zhejiang / Shanghai AI Lab / ByteDance,NeurIPS 2024,ZzZZCHS/Chat-Scene,,,,給場景中每個物件一個識別碼 token，讓 LLM 用識別碼指涉物件做 grounding 與問答
+spatial,2505.23764,MMSI-Bench,Shanghai AI Lab / CUHK 等,ICLR 2026,OpenRobotLab/MMSI-Bench,https://runsenxu.com/projects/MMSI_Bench,,基準,多張影像的空間推理 benchmark，人工出題，最強模型與人類差距仍大
+spatial,2309.05251,Multi3DRefer,Simon Fraser Univ.,ICCV 2023,3dlg-hcvc/M3DRef-CLIP,https://3dlg-hcvc.github.io/multi3drefer/,,基準,3D grounding 擴充為一句描述可對應零到多個物件，附資料集與基線
+spatial,2411.16537,RoboSpatial,Ohio State / NVIDIA,CVPR 2025,NVlabs/RoboSpatial,https://chanh.ee/RoboSpatial,,獲獎;基準,機器人視角的大規模空間理解資料集（含參考座標系與可放置位置），訓練 2D/3D VLM
+spatial,2312.16170,EmbodiedScan,Shanghai AI Lab 等,CVPR 2024,InternRobotics/EmbodiedScan,,,基準,以機器人第一人稱 RGB-D 視角標註的 3D 偵測、occupancy 與 grounding 基準
+spatial,2409.18125,LLaVA-3D,HKU / Shanghai AI Lab,ICCV 2025,ZCMax/LLaVA-3D,https://zcmax.github.io/projects/LLaVA-3D/,,,在 LLaVA 的 2D patch 上加 3D 位置編碼，沿用 2D 預訓練權重快速獲得 3D 理解
+spatial,2505.20279,VLM-3R,UT Austin / UCLA / Meta 等,arXiv,VITA-Group/VLM-3R,https://vlm-3r.github.io,,,從單眼影片重建 3D 特徵並與指令對齊，讓 VLM 做空間與時間推理
+spatial,2401.09340,SceneVerse,BIGAI,ECCV 2024,scene-verse/SceneVerse,https://scene-verse.github.io,,基準,約 6.8 萬個室內場景、數百萬句 3D 語言標註，用來預訓練 3D grounding 模型
+spatial,2412.00493,Video-3D LLM,CUHK,CVPR 2025,LaVi-Lab/Video-3D-LLM,,,,把 3D 場景當影片，在影片特徵加 3D 座標編碼做 3D 理解
+spatial,2506.04308,RoboRefer,Beihang / PKU / BAAI,NeurIPS 2025,Zhoues/RoboRefer,https://zhoues.github.io/RoboRefer/,,,以 SFT 加 RL 訓練能多步推理的空間指代 VLM，輸出機器人要去或放的點
+spatial,2503.22976,SPAR,Fudan / Huawei Noah's Ark,NeurIPS 2025,fudan-zvg/spar,https://logosroboticsgroup.github.io/SPAR/,,,從 3D 掃描自動生成 700 萬筆空間問答（SPAR-7M），只用 2D 輸入就提升 VLM 3D 推理
+spatial,2505.24625,VG LLM,CUHK,NeurIPS 2025,LaVi-Lab/VG-LLM,https://lavi-lab.github.io/VG-LLM/,,,在 MLLM 中加 3D 幾何編碼器，直接從影片抽出 3D 先驗，不需點雲或深度
+spatial,2405.10370,Grounded 3D-LLM,Shanghai AI Lab / CUHK,arXiv,OpenRobotLab/Grounded_3D-LLM,,,,用指代 token 把 3D 偵測、grounding、問答統一成生成式任務
+spatial,2501.01428,GPT4Scene,HKU / Shanghai AI Lab,arXiv,Qi-Zhangyang/GPT4Scene-and-VLN-R1,https://gpt4scene.github.io/,,,從影片重建鳥瞰圖並在畫面與鳥瞰圖標上一致的物件編號，讓 VLM 建立全域空間關係
+spatial,2506.03135,OmniSpatial,Tsinghua / PKU / Galbot 等,ICLR 2026,qizekun/OmniSpatial,https://qizekun.github.io/omnispatial/,,基準,涵蓋動態推理、視角轉換等進階空間推理的 benchmark
+spatial,2503.13111,MM-Spatial,Apple,ICCV 2025,apple/ml-cubifyanything,,,基準,提出室內 3D 空間問答資料集 CA-VQA，訓練能估深度與 3D 位置的 MLLM
+spatial,2506.07491,SpatialLM,Manycore Tech / HKUST,NeurIPS 2025,manycore-research/SpatialLM,https://manycore-research.github.io/SpatialLM,,,LLM 吃點雲直接輸出牆、門窗與物件 3D 框的結構化場景描述
+spatial,2412.04383,SeeGround,HKUST(GZ) / NUS / A*STAR,CVPR 2025,iris0329/SeeGround,https://seeground.github.io/,,,零樣本 3D grounding：選視角渲染畫面加物件位置文字，交給 2D VLM 判斷
+spatial,2504.20024,SpatialReasoner,Johns Hopkins 等,NeurIPS 2025,johnson111788/SpatialReasoner,https://spatial-reasoner.github.io,,,讓 VLM 推理時先寫出明確的 3D 位置與方向，再據此回答
+spatial,2501.10074,SpatialCoT,Huawei,arXiv,,,,,對齊語言與座標後以 chain-of-thought 推理，輸出導航與操作的目標位置
+spatial,2503.00513,Inst3D-LMM,Zhejiang,CVPR 2025,hanxunyu/Inst3D-LMM,,,,以實例為單位融合 2D 語意與 3D 幾何，一個模型做多種 3D 理解任務
+semantic-map,2502.16652,Dr. Splat,POSTECH / KAIST / NVIDIA,CVPR 2025,kaist-ami/Dr-Splat,,,,把語言特徵直接登錄到 3D Gaussian 上，不必逐視角渲染特徵，查詢更快
+spatial,2507.12508,MindJourney,UMass Amherst / JHU / Microsoft 等,NeurIPS 2025,UMass-Embodied-AGI/MindJourney,https://umass-embodied-agi.github.io/MindJourney/,,,推理時用影片 world model 想像換視角後的畫面，提升 VLM 空間推理，不需重新訓練
+spatial,2511.21688,G2VLM,Shanghai AI Lab / HKU 等,arXiv,InternRobotics/G2VLM,https://gordonhu608.github.io/g2vlm.github.io/,,,同一個 VLM 同時做 3D 重建與空間推理，幾何特徵直接支援問答
+spatial,2507.23478,3D-R1,PKU,arXiv,AIGeeksGroup/3D-R1,https://aigeeksgroup.github.io/3D-R1,,,合成 3D 推理資料加 GRPO 強化學習，提升 3D VLM 的推理
+spatial,2505.22657,3DLLM-Mem,UCLA / Google Research,NeurIPS 2025,,https://3dllm-mem.github.io,,,給具身 3D LLM 長期時空記憶，在多房間任務中選擇性取用過去觀察
+spatial,2507.07984,OST-Bench,Shanghai AI Lab / HKU 等,NeurIPS 2025,OpenRobotLab/OST-Bench,https://rbler1234.github.io/OSTBench.github.io/,,基準,邊走邊看的線上時空理解 benchmark，模擬機器人探索時的空間記憶
+spatial,2509.13317,SR-3D,NVIDIA / UC San Diego,arXiv,AnjieCheng/SR-3D,https://www.anjiecheng.me/sr3d,,,在 2D 特徵加 3D 位置編碼，可在任一視角框選區域並跨視角推理
+spatial,2511.05491,VST,ByteDance Seed,arXiv,Yangr116/VST,https://yangr116.github.io/vst_project/,,,以空間感知與空間推理兩段資料漸進訓練 VLM，不改架構提升空間能力
+spatial,2412.14171,VSI-Bench,NYU / Yale / Stanford,CVPR 2025,vision-x-nyu/thinking-in-space,https://vision-x-nyu.github.io/thinking-in-space.github.io/,,基準,從室內影片測 MLLM 空間記憶與推理的 benchmark，發現模型會在內部形成局部認知地圖
+spatial,2207.10660,Omni3D / Cube R-CNN,Meta AI,CVPR 2023,facebookresearch/omni3d,https://garrickbrazil.com/omni3d,,基準,整合室內外多資料集的單張影像 3D 偵測基準，Cube R-CNN 跨相機與場景通用
+spatial,2210.03105,Mask3D,RWTH Aachen / ETH / NVIDIA,ICRA 2023,JonasSchult/Mask3D,https://jonasschult.github.io/Mask3D/,,,以 Transformer 實例查詢直接預測 3D 實例遮罩，不需手工分群
+spatial,1912.08830,ScanRefer,TUM / Simon Fraser Univ.,ECCV 2020,daveredrum/ScanRefer,https://daveredrum.github.io/ScanRefer/,,基準,第一個 RGB-D 掃描上的 3D 語言 grounding 資料集與基線
+spatial,2311.12871,LEO,BIGAI 等,ICML 2024,embodied-generalist/embodied-generalist,https://embodied-generalist.github.io/,,,在 3D 場景中同時做描述、問答、導航與操作的具身通用模型
+spatial,2511.04670,Cambrian-S,NYU / Stanford,arXiv,cambrian-mllm/cambrian-s,https://cambrian-mllm.github.io/,,,從影片做空間超感知：以預測下一幀的驚訝度決定記憶與事件切分，並提出 VSI-SUPER

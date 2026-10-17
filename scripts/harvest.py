@@ -7,10 +7,10 @@
 import json
 import os
 import time
-import urllib.error
 import urllib.parse
-import urllib.request
 from pathlib import Path
+
+from net import fetch_json
 
 ROOT = Path(__file__).resolve().parent.parent
 URL = "https://api.semanticscholar.org/graph/v1/paper/search/bulk"
@@ -34,12 +34,45 @@ QUERIES = {
              '"place recognition"', '"loop closure"', '"bundle adjustment"'],
     "perception-3d": ['"depth estimation"', '"stereo matching"', '"multi-view stereo"', '"3D reconstruction"',
                       '"gaussian splatting"', '"occupancy prediction"', 'pointmap', '"novel view synthesis"'],
+    "spatial": ['"3D object detection" indoor', '"open-vocabulary 3D detection"', '"3D instance segmentation"',
+                '"3D visual grounding"', '"3D question answering"', '"3D large language model"',
+                '"spatial reasoning" vision-language', '"spatial understanding" multimodal', '"3D scene understanding"'],
     "vision": ['"open-vocabulary detection"', '"open-vocabulary segmentation"', '"open-vocabulary object detection"',
                '"segment anything"', '"vision foundation model"', '"self-supervised" visual representation',
                '"feature matching"', '"point tracking"', '"real-time object detection"'],
     "real2sim": ['"real-to-sim"', 'real2sim', '"digital twin" robot', '"sim-to-real"', '"robot simulation"',
                  '"gaussian splatting" simulation robot', '"world model" robot'],
 }
+
+
+# 錨點論文：撈引用它們的高引用論文，補關鍵字的盲點（2026-10 關鍵字漏掉 VSI-Bench、Omni3D、ScanRefer）。
+# 選領域專屬、引用數數千以內的；vision、real2sim 的代表作（CLIP、SAM、Isaac Gym）被引用太廣，撈回來多是雜訊，所以不設。
+ANCHORS = {
+    "vln": ["1711.07280", "2004.02857"],  # R2R、VLN-CE
+    "local-nav": ["2306.14846", "2310.07896"],  # ViNT、NoMaD
+    "semantic-map": ["2309.16650", "2210.05714"],  # ConceptGraphs、VLMaps
+    "quadruped": ["2109.11978", "2201.08117"],  # Learning to Walk in Minutes、Perceptive Locomotion
+    "wheel-legged": ["2405.01792"],  # ETH 輪足自主導航與運動
+    "slam": ["2107.06829", "2108.10869"],  # FAST-LIO2、DROID-SLAM
+    "perception-3d": ["2312.14132"],  # DUSt3R
+    "spatial": ["1912.08830", "2412.14171"],  # ScanRefer、VSI-Bench
+}
+
+
+def citing(aid: str):
+    headers = {"x-api-key": key} if (key := os.environ.get("S2_API_KEY")) else {}
+    offset = 0
+    while offset is not None:
+        limit = min(1000, 9999 - offset)  # 2026-10 實測：offset + limit 須 < 10000，否則回錯誤
+        if limit <= 0:
+            print(f"  {aid} 引用超過 1 萬篇，只撈到前 9999 篇；換一篇較窄的錨點", flush=True)
+            return
+        url = (f"https://api.semanticscholar.org/graph/v1/paper/ARXIV:{aid}/citations?"
+               f"{urllib.parse.urlencode({'fields': FIELDS, 'limit': limit, 'offset': offset})}")
+        res = fetch_json(url, headers=headers)
+        yield from (c["citingPaper"] for c in res.get("data", []))
+        offset = res.get("next")
+        time.sleep(3)
 
 
 def search(query: str):
@@ -53,15 +86,7 @@ def search(query: str):
         if token:
             params["token"] = token
         url = f"{URL}?{urllib.parse.urlencode(params)}"
-        # 未登入時與所有匿名使用者共用限額，429 很常見，退避上限拉到 60 秒
-        for i in range(15):
-            try:
-                res = json.load(urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=60))
-                break
-            except urllib.error.HTTPError as e:
-                if e.code != 429 or i == 14:
-                    raise
-                time.sleep(min(2 ** i, 60))
+        res = fetch_json(url, headers=headers)
         yield from res.get("data", [])
         token = res.get("token")
         if not token:
@@ -76,13 +101,16 @@ def main():
         if topic in out:  # 中斷後重跑時跳過已完成的主題；要全部重撈就先刪檔
             continue
         found = {}
-        for q in queries:
-            for p in search(q):
+        sources = [(f"查詢「{q}」", search, q) for q in queries]
+        sources += [(f"引用 {a}", citing, a) for a in ANCHORS.get(topic, [])]
+        for k, (label, fn, arg) in enumerate(sources, 1):
+            print(f"{topic} {k}/{len(sources)}：{label}", flush=True)
+            for p in fn(arg):
                 year, cites = p.get("year"), p.get("citationCount") or 0
                 if year is None or cites < THRESHOLD.get(year, 10**9):
                     continue
                 aid = (p.get("externalIds") or {}).get("ArXiv")
-                key = aid or p["paperId"]
+                key = aid or p.get("paperId")
                 found[key] = {"arxiv": aid, "doi": (p.get("externalIds") or {}).get("DOI"), "title": p["title"], "year": year,
                               "citations": cites, "venue": p.get("venue") or ""}
             time.sleep(3)

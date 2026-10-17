@@ -18,25 +18,12 @@ import sys
 import time
 import urllib.error
 import urllib.parse
-import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-UA = {"User-Agent": "robot-nav-survey/1.0 (https://github.com/chenyuting3077/robot-nav-survey)"}
+from net import fetch as get
+
 NS = {"a": "http://www.w3.org/2005/Atom", "x": "http://arxiv.org/schemas/atom"}
-
-
-def get(url: str, tries: int = 10) -> bytes:
-    for i in range(tries):
-        try:
-            return urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60).read()
-        except urllib.error.HTTPError as e:
-            if e.code == 404:
-                raise
-            if e.code != 429 and e.code < 500 or i == tries - 1:
-                raise
-            time.sleep(min(2 ** i, 60))
-    raise RuntimeError("unreachable")
 
 
 def arxiv_batch(ids):
@@ -61,7 +48,7 @@ def arxiv_batch(ids):
 def hf(aid):
     try:
         p = json.loads(get(f"https://huggingface.co/api/papers/{aid}", tries=4))
-    except urllib.error.HTTPError:
+    except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError):  # 單篇失敗不中斷整批
         return {}
     return {k: p.get(k) for k in ("githubRepo", "projectPage", "upvotes", "githubStars", "ai_summary")}
 
@@ -102,8 +89,11 @@ def main():
     out = json.loads(out_path.read_text()) if out_path.exists() else {}
     todo = [i for i in ids if i not in out]
     if todo:
+        print(f"arXiv API：{len(todo)} 篇", flush=True)
         ax = arxiv_batch(todo)
+        print("OpenAlex 機構", flush=True)
         oa = openalex_batch(todo)
+        print("HF 與 arXiv HTML，逐篇", flush=True)
         for n, aid in enumerate(todo, 1):
             rec = {**ax.get(aid, {}), **oa.get(aid, {"institutions": []}), "hf": hf(aid)}
             if not rec["institutions"]:

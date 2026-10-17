@@ -67,12 +67,6 @@
    "venue": "IEEE International Conference on Robotics and Automation",
    "citationCount": 312
   },
-  "2302.11434": {
-   "title": "iPlanner: Imperative Path Planning",
-   "year": 2023,
-   "venue": "Robotics: Science and Systems Conference",
-   "citationCount": 98
-  },
   "2306.14846": {
    "title": "ViNT: A Foundation Model for Visual Navigation",
    "year": 2023,
@@ -179,7 +173,7 @@
    "title": "Legged Locomotion in Challenging Terrains using Egocentric Vision",
    "year": 2022,
    "venue": "Conference on Robot Learning",
-   "citationCount": 369
+   "citationCount": 368
   },
   "2212.03238": {
    "title": "Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior",
@@ -217,12 +211,6 @@
    "venue": "Robotics: Science and Systems Conference",
    "citationCount": 183
   },
-  "2203.14912": {
-   "title": "Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning",
-   "year": 2022,
-   "venue": "IEEE International Conference on Robotics and Automation",
-   "citationCount": 119
-  },
   "2405.01792": {
    "title": "Learning robust autonomous navigation and locomotion for wheeled-legged robots",
    "year": 2024,
@@ -239,7 +227,7 @@
    "title": "Kimera-Multi: Robust, Distributed, Dense Metric-Semantic SLAM for Multi-Robot Systems",
    "year": 2021,
    "venue": "IEEE Transactions on robotics",
-   "citationCount": 348
+   "citationCount": 349
   },
   "2107.06829": {
    "title": "FAST-LIO2: Fast Direct LiDAR-Inertial Odometry",
@@ -299,7 +287,7 @@
    "title": "FAST-LIVO2: Fast, Direct LiDAR–Inertial–Visual Odometry",
    "year": 2024,
    "venue": "IEEE Transactions on robotics",
-   "citationCount": 279
+   "citationCount": 280
   },
   "2412.12392": {
    "title": "MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors",
@@ -347,7 +335,7 @@
    "title": "DUSt3R: Geometric 3D Vision Made Easy",
    "year": 2023,
    "venue": "Computer Vision and Pattern Recognition",
-   "citationCount": 2037
+   "citationCount": 2038
   },
   "2401.10891": {
    "title": "Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data",
@@ -401,7 +389,7 @@
    "title": "VGGT: Visual Geometry Grounded Transformer",
    "year": 2025,
    "venue": "Computer Vision and Pattern Recognition",
-   "citationCount": 2022
+   "citationCount": 2021
   },
   "2507.13347": {
    "title": "$\\pi^3$: Permutation-Equivariant Visual Geometry Learning",
@@ -431,7 +419,7 @@
    "title": "Masked Autoencoders Are Scalable Vision Learners",
    "year": 2021,
    "venue": "Computer Vision and Pattern Recognition",
-   "citationCount": 13210
+   "citationCount": 13208
   },
   "2205.06230": {
    "title": "Simple Open-Vocabulary Object Detection with Vision Transformers",
@@ -461,7 +449,7 @@
    "title": "DINOv2: Learning Robust Visual Features without Supervision",
    "year": 2023,
    "venue": "Trans. Mach. Learn. Res.",
-   "citationCount": 11340
+   "citationCount": 11341
   },
   "2304.08069": {
    "title": "DETRs Beat YOLOs on Real-time Object Detection",
@@ -503,13 +491,13 @@
    "title": "DINOv3",
    "year": 2025,
    "venue": "",
-   "citationCount": 1754
+   "citationCount": 1756
   },
   "2511.16719": {
    "title": "SAM 3: Segment Anything with Concepts",
    "year": 2025,
    "venue": "arXiv.org",
-   "citationCount": 1255
+   "citationCount": 1256
   },
   "2106.14405": {
    "title": "Habitat 2.0: Training Home Assistants to Rearrange their Habitat",
@@ -1085,7 +1073,7 @@
    "title": "Kimera: From SLAM to spatial perception with 3D dynamic scene graphs",
    "year": 2021,
    "venue": "Int. J. Robotics Res.",
-   "citationCount": 407
+   "citationCount": 408
   },
   "2107.00822": {
    "title": "F-LOAM : Fast LiDAR Odometry and Mapping",
@@ -1115,7 +1103,7 @@
    "title": "A Survey on Active Simultaneous Localization and Mapping: State of the Art and New Frontiers",
    "year": 2022,
    "venue": "IEEE Transactions on robotics",
-   "citationCount": 366
+   "citationCount": 367
   },
   "2109.13494": {
    "title": "Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments",
@@ -1181,7 +1169,7 @@
    "title": "Swarm-SLAM: Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems",
    "year": 2023,
    "venue": "IEEE Robotics and Automation Letters",
-   "citationCount": 214
+   "citationCount": 215
   },
   "2402.03246": {
    "title": "SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM",
@@ -1211,7 +1199,7 @@
    "title": "VGGT-Long: Chunk it, Loop it, Align it – Pushing VGGT’s Limits on Kilometer-scale Long RGB Sequences",
    "year": 2025,
    "venue": "IEEE International Conference on Robotics and Automation",
-   "citationCount": 150
+   "citationCount": 151
   },
   "2403.12550": {
    "title": "Rgbd Gs-icp Slam",
@@ -1415,7 +1403,7 @@
    "title": "Rapid locomotion via reinforcement learning",
    "year": 2022,
    "venue": "Robotics: Science and Systems Conference",
-   "citationCount": 421
+   "citationCount": 422
   },
   "2208.08373": {
    "title": "Perceptive Locomotion Through Nonlinear Model-Predictive Control",
@@ -1427,7 +1415,7 @@
    "title": "Optimization-Based Control for Dynamic Legged Robots",
    "year": 2022,
    "venue": "IEEE Transactions on robotics",
-   "citationCount": 314
+   "citationCount": 315
   },
   "2309.15462": {
    "title": "DTC: Deep Tracking Control",
@@ -1541,13 +1529,13 @@
    "title": "Unifying Flow, Stereo and Depth Estimation",
    "year": 2022,
    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-   "citationCount": 436
+   "citationCount": 437
   },
   "2203.11483": {
    "title": "Practical Stereo Matching via Cascaded Recurrent Network with Adaptive Correlation",
    "year": 2022,
    "venue": "Computer Vision and Pattern Recognition",
-   "citationCount": 429
+   "citationCount": 430
   },
   "2104.00681": {
    "title": "NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video",
@@ -1631,7 +1619,7 @@
    "title": "MASt3R-SfM: A Fully-Integrated Solution for Unconstrained Structure-from-Motion",
    "year": 2024,
    "venue": "International Conference on 3D Vision",
-   "citationCount": 200
+   "citationCount": 201
   },
   "2507.11539": {
    "title": "Streaming 4D Visual Geometry Transformer",
@@ -2009,19 +1997,19 @@
    "title": "YOLOv7: Trainable Bag-of-Freebies Sets New State-of-the-Art for Real-Time Object Detectors",
    "year": 2022,
    "venue": "Computer Vision and Pattern Recognition",
-   "citationCount": 11452
+   "citationCount": 11451
   },
   "2405.14458": {
    "title": "YOLOv10: Real-Time End-to-End Object Detection",
    "year": 2024,
    "venue": "Neural Information Processing Systems",
-   "citationCount": 6250
+   "citationCount": 6251
   },
   "2104.00680": {
    "title": "LoFTR: Detector-Free Local Feature Matching with Transformers",
    "year": 2021,
    "venue": "Computer Vision and Pattern Recognition",
-   "citationCount": 2153
+   "citationCount": 2154
   },
   "2104.13921": {
    "title": "Open-vocabulary Object Detection via Vision and Language Knowledge Distillation",
@@ -2207,7 +2195,7 @@
    "title": "ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI",
    "year": 2024,
    "venue": "arXiv.org",
-   "citationCount": 361
+   "citationCount": 362
   },
   "2506.09985": {
    "title": "V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning",
@@ -2279,7 +2267,7 @@
    "title": "InternScenes: A Large-scale Simulatable Indoor Scene Dataset with Realistic Layouts",
    "year": 2025,
    "venue": "Neural Information Processing Systems",
-   "citationCount": 30
+   "citationCount": 31
   },
   "2502.13187": {
    "title": "A Survey of Sim-to-Real Methods in RL: Progress, Prospects and Challenges with Foundation Models",
@@ -2352,15 +2340,279 @@
    "year": 2021,
    "venue": "Neural computing & applications (Print)",
    "citationCount": 90
+  },
+  "2401.12168": {
+   "title": "SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities",
+   "year": 2024,
+   "venue": "Computer Vision and Pattern Recognition",
+   "citationCount": 1124
+  },
+  "2307.12981": null,
+  "2111.08897": {
+   "title": "ARKitScenes: A Diverse Real-World Dataset For 3D Indoor Scene Understanding Using Mobile RGB-D Data",
+   "year": 2021,
+   "venue": "NeurIPS Datasets and Benchmarks",
+   "citationCount": 545
+  },
+  "2112.10482": {
+   "title": "ScanQA: 3D Question Answering for Spatial Scene Understanding",
+   "year": 2021,
+   "venue": "Computer Vision and Pattern Recognition",
+   "citationCount": 506
+  },
+  "2406.01584": {
+   "title": "SpatialRGPT: Grounded Spatial Reasoning in Vision Language Model",
+   "year": 2024,
+   "venue": "Neural Information Processing Systems",
+   "citationCount": 435
+  },
+  "2205.00363": {
+   "title": "Visual Spatial Reasoning",
+   "year": 2022,
+   "venue": "Transactions of the Association for Computational Linguistics",
+   "citationCount": 400
+  },
+  "2203.01509": {
+   "title": "SoftGroup for 3D Instance Segmentation on Point Clouds",
+   "year": 2022,
+   "venue": "Computer Vision and Pattern Recognition",
+   "citationCount": 370
+  },
+  "2311.18651": {
+   "title": "LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning",
+   "year": 2023,
+   "venue": "Computer Vision and Pattern Recognition",
+   "citationCount": 296
+  },
+  "2505.23747": {
+   "title": "Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence",
+   "year": 2025,
+   "venue": "Neural Information Processing Systems",
+   "citationCount": 257
+  },
+  "2312.08168": {
+   "title": "Chat-Scene: Bridging 3D Scene and Large Language Models with Object Identifiers",
+   "year": 2023,
+   "venue": "Neural Information Processing Systems",
+   "citationCount": 240
+  },
+  "2505.23764": {
+   "title": "MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence",
+   "year": 2025,
+   "venue": "arXiv.org",
+   "citationCount": 217
+  },
+  "2309.05251": {
+   "title": "Multi3DRefer: Grounding Text Description to Multiple 3D Objects",
+   "year": 2023,
+   "venue": "IEEE International Conference on Computer Vision",
+   "citationCount": 211
+  },
+  "2411.16537": {
+   "title": "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics",
+   "year": 2024,
+   "venue": "Computer Vision and Pattern Recognition",
+   "citationCount": 209
+  },
+  "2312.16170": {
+   "title": "EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI",
+   "year": 2023,
+   "venue": "Computer Vision and Pattern Recognition",
+   "citationCount": 209
+  },
+  "2409.18125": {
+   "title": "LLaVA-3D: A Simple Yet Effective Pathway to Empowering LMMs with 3D Capabilities",
+   "year": 2024,
+   "venue": "IEEE International Conference on Computer Vision",
+   "citationCount": 201
+  },
+  "2505.20279": {
+   "title": "VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction",
+   "year": 2025,
+   "venue": "arXiv.org",
+   "citationCount": 187
+  },
+  "2401.09340": {
+   "title": "SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding",
+   "year": 2024,
+   "venue": "European Conference on Computer Vision",
+   "citationCount": 175
+  },
+  "2412.00493": {
+   "title": "Video-3D LLM: Learning Position-Aware Video Representation for 3D Scene Understanding",
+   "year": 2024,
+   "venue": "Computer Vision and Pattern Recognition",
+   "citationCount": 175
+  },
+  "2506.04308": {
+   "title": "RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics",
+   "year": 2025,
+   "venue": "Neural Information Processing Systems",
+   "citationCount": 166
+  },
+  "2503.22976": {
+   "title": "From Flatland to Space: Teaching Vision-Language Models to Perceive and Reason in 3D",
+   "year": 2025,
+   "venue": "Neural Information Processing Systems",
+   "citationCount": 147
+  },
+  "2505.24625": {
+   "title": "Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors",
+   "year": 2025,
+   "venue": "Neural Information Processing Systems",
+   "citationCount": 140
+  },
+  "2405.10370": {
+   "title": "Grounded 3D-LLM with Referent Tokens",
+   "year": 2024,
+   "venue": "arXiv.org",
+   "citationCount": 128
+  },
+  "2501.01428": {
+   "title": "GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models",
+   "year": 2025,
+   "venue": "arXiv.org",
+   "citationCount": 123
+  },
+  "2506.03135": {
+   "title": "OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models",
+   "year": 2025,
+   "venue": "arXiv.org",
+   "citationCount": 121
+  },
+  "2503.13111": {
+   "title": "MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs",
+   "year": 2025,
+   "venue": "IEEE International Conference on Computer Vision",
+   "citationCount": 94
+  },
+  "2506.07491": {
+   "title": "SpatialLM: Training Large Language Models for Structured Indoor Modeling",
+   "year": 2025,
+   "venue": "Neural Information Processing Systems",
+   "citationCount": 92
+  },
+  "2412.04383": {
+   "title": "SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding",
+   "year": 2024,
+   "venue": "Computer Vision and Pattern Recognition",
+   "citationCount": 90
+  },
+  "2504.20024": {
+   "title": "SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning",
+   "year": 2025,
+   "venue": "Neural Information Processing Systems",
+   "citationCount": 80
+  },
+  "2501.10074": {
+   "title": "SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning",
+   "year": 2025,
+   "venue": "arXiv.org",
+   "citationCount": 73
+  },
+  "2503.00513": {
+   "title": "Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning",
+   "year": 2025,
+   "venue": "Computer Vision and Pattern Recognition",
+   "citationCount": 64
+  },
+  "2502.16652": {
+   "title": "Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration",
+   "year": 2025,
+   "venue": "Computer Vision and Pattern Recognition",
+   "citationCount": 66
+  },
+  "2507.12508": {
+   "title": "MindJourney: Test-Time Scaling with World Models for Spatial Reasoning",
+   "year": 2025,
+   "venue": "Neural Information Processing Systems",
+   "citationCount": 57
+  },
+  "2511.21688": {
+   "title": "G2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning",
+   "year": 2025,
+   "venue": "arXiv.org",
+   "citationCount": 47
+  },
+  "2507.23478": {
+   "title": "3D-R1: Enhancing Reasoning in 3D VLMs for Unified Scene Understanding",
+   "year": 2025,
+   "venue": "arXiv.org",
+   "citationCount": 47
+  },
+  "2505.22657": {
+   "title": "3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model",
+   "year": 2025,
+   "venue": "Neural Information Processing Systems",
+   "citationCount": 31
+  },
+  "2507.07984": {
+   "title": "OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding",
+   "year": 2025,
+   "venue": "Neural Information Processing Systems",
+   "citationCount": 33
+  },
+  "2509.13317": {
+   "title": "3D Aware Region Prompted Vision Language Model",
+   "year": 2025,
+   "venue": "arXiv.org",
+   "citationCount": 33
+  },
+  "2511.05491": {
+   "title": "Visual Spatial Tuning",
+   "year": 2025,
+   "venue": "arXiv.org",
+   "citationCount": 93
+  },
+  "2412.14171": {
+   "title": "Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces",
+   "year": 2024,
+   "venue": "Computer Vision and Pattern Recognition",
+   "citationCount": 843
+  },
+  "2207.10660": {
+   "title": "Omni3D: A Large Benchmark and Model for 3D Object Detection in the Wild",
+   "year": 2022,
+   "venue": "Computer Vision and Pattern Recognition",
+   "citationCount": 227
+  },
+  "2210.03105": {
+   "title": "Mask3D: Mask Transformer for 3D Semantic Instance Segmentation",
+   "year": 2022,
+   "venue": "IEEE International Conference on Robotics and Automation",
+   "citationCount": 480
+  },
+  "1912.08830": {
+   "title": "ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language",
+   "year": 2019,
+   "venue": "European Conference on Computer Vision",
+   "citationCount": 673
+  },
+  "2311.12871": {
+   "title": "An Embodied Generalist Agent in 3D World",
+   "year": 2023,
+   "venue": "International Conference on Machine Learning",
+   "citationCount": 463
+  },
+  "2511.04670": {
+   "title": "Cambrian-S: Towards Spatial Supersensing in Video",
+   "year": 2025,
+   "venue": "arXiv.org",
+   "citationCount": 154
   }
  },
  "stars": {
   "3DAgentWorld/OpenGS-SLAM": 215,
   "3DAgentWorld/S3PO-GS": 137,
+  "3dlg-hcvc/M3DRef-CLIP": 98,
+  "AIGeeksGroup/3D-R1": 417,
   "AIGeeksGroup/MobileVLA-R1": 117,
   "AIGeeksGroup/Nav-R1": 132,
   "AILab-CVC/YOLO-World": 6584,
+  "ATR-DBI/ScanQA": 165,
   "AnjieCheng/NaVILA": 720,
+  "AnjieCheng/SR-3D": 31,
+  "AnjieCheng/SpatialRGPT": 340,
   "Anttwo/SuGaR": 3537,
   "AnyLoc/AnyLoc": 645,
   "Atten4Vis/LW-DETR": 514,
@@ -2374,17 +2626,17 @@
   "DefaultRui/VLN-VER": 143,
   "DengKaiCQ/VGGT-Long": 909,
   "DennisRotondi/FunGraph": 19,
-  "DepthAnything/Depth-Anything-V2": 8967,
+  "DepthAnything/Depth-Anything-V2": 8968,
   "DepthAnything/PromptDA": 1174,
-  "DepthAnything/Video-Depth-Anything": 2265,
-  "Feliciaxyao/NavMorph": 93,
+  "DepthAnything/Video-Depth-Anything": 2268,
+  "Feliciaxyao/NavMorph": 94,
   "Fudan-MAGIC-Lab/VINGS-Mono": 305,
   "Gaozzzz/3D-Gaussian-Map-VLN": 10,
   "Gaozzzz/Uncertainty-Aware-VLN": 10,
   "GengzeZhou/NavGPT": 352,
   "GengzeZhou/NavGPT-2": 256,
   "GigaAI-research/EmbodieDreamer": 34,
-  "GradientSpaces/LoopSplat": 399,
+  "GradientSpaces/LoopSplat": 400,
   "GradientSpaces/WildGS-SLAM": 658,
   "HCPLab-SYSU/LH-VLN": 267,
   "HKUST-Aerial-Robotics/FUEL": 1496,
@@ -2402,18 +2654,23 @@
   "Improbable-AI/walk-these-ways": 1465,
   "Inception3D/TTT3R": 735,
   "Insta360-Research-Team/DEFOM-Stereo": 306,
-  "Intellindust-AI-Lab/DEIMv2": 2062,
+  "Intellindust-AI-Lab/DEIMv2": 2061,
   "InternRobotics/AnySplat": 955,
+  "InternRobotics/EmbodiedScan": 680,
+  "InternRobotics/G2VLM": 360,
   "InternRobotics/InternNav": 1135,
   "InternRobotics/InternScenes": 276,
   "InternRobotics/NavDP": 813,
   "Jianghanxiao/PhysTwin": 469,
+  "JonasSchult/Mask3D": 748,
   "Junyi42/monst3r": 1390,
+  "LaVi-Lab/VG-LLM": 260,
+  "LaVi-Lab/Video-3D-LLM": 224,
   "Lab-of-AI-and-Robotics/GS_ICP_SLAM": 540,
   "LeCAR-Lab/ABS": 633,
   "LeCAR-Lab/SPI-Active": 230,
   "LeCAR-Lab/dial-mpc": 1011,
-  "LiheYoung/Depth-Anything": 8236,
+  "LiheYoung/Depth-Anything": 8237,
   "LongchaoDa/AwesomeSim2Real": 201,
   "Lu-Feng/CricaVPR": 173,
   "Lu-Feng/SelaVPR": 269,
@@ -2421,9 +2678,9 @@
   "MIT-SPARK/Clio": 263,
   "MIT-SPARK/Hydra": 1180,
   "MIT-SPARK/Khronos": 547,
-  "MIT-SPARK/Kimera": 2136,
+  "MIT-SPARK/Kimera": 2137,
   "MIT-SPARK/Kimera-Multi": 417,
-  "MIT-SPARK/VGGT-SLAM": 1159,
+  "MIT-SPARK/VGGT-SLAM": 1160,
   "MIV-XJTU/JanusVLN": 599,
   "MTU3D/MTU3D": 275,
   "MarSaKi/ETPNav": 496,
@@ -2433,13 +2690,18 @@
   "MrZihan/HNR-VLN": 110,
   "NHirose/OmniVLA": 358,
   "NIRVANALAN/STream3R": 412,
-  "NVIDIA/Cosmos": 12052,
+  "NVIDIA/Cosmos": 12053,
   "NVlabs/DigitalTwinArt": 74,
-  "NVlabs/Fast-FoundationStereo": 1535,
+  "NVlabs/Fast-FoundationStereo": 1536,
   "NVlabs/FoundationStereo": 2951,
   "NVlabs/RADIO": 1973,
+  "NVlabs/RoboSpatial": 153,
   "NVlabs/instant-ngp": 17577,
+  "Open3DA/LL3DA": 320,
   "OpenMask3D/openmask3d": 273,
+  "OpenRobotLab/Grounded_3D-LLM": 137,
+  "OpenRobotLab/MMSI-Bench": 109,
+  "OpenRobotLab/OST-Bench": 83,
   "OpenRobotLab/Re3Sim": 181,
   "OpenRobotLab/StreamVLN": 628,
   "PKU-EPIC/MaskClustering": 133,
@@ -2453,7 +2715,7 @@
   "Parskatt/romav2": 745,
   "QVPR/Patch-NetVLAD": 601,
   "Qi-Zhangyang/GPT4Scene-and-VLN-R1": 543,
-  "RT-DETRs/RT-DETRv4": 660,
+  "RT-DETRs/RT-DETRv4": 661,
   "Ram81/goat-bench": 165,
   "RayFronts/RayFronts": 149,
   "Robbyant/lingbot-depth": 1674,
@@ -2462,7 +2724,7 @@
   "SYSU-RoboticsLab/NaviD": 59,
   "SYSU-STAR/ApexNav": 474,
   "ShihuaHuang95/DEIM": 1635,
-  "ShuhongLL/SGS-SLAM": 675,
+  "ShuhongLL/SGS-SLAM": 683,
   "SpatialVision/Prior-Depth-Anything": 533,
   "SysCV/sam-hq": 4264,
   "THU-MIG/yolov10": 11336,
@@ -2472,24 +2734,31 @@
   "TixiaoShan/LVI-SAM": 1888,
   "ToniRV/NeRF-SLAM": 1266,
   "UCSB-AI/awesome-vision-language-navigation": 610,
+  "UMass-Embodied-AGI/3D-LLM": 1215,
   "UMass-Embodied-AGI/3D-Mem": 279,
-  "UX-Decoder/Segment-Everything-Everywhere-All-At-Once": 4793,
-  "UZ-SLAMLab/ORB_SLAM3": 9150,
+  "UMass-Embodied-AGI/MindJourney": 154,
+  "UX-Decoder/Segment-Everything-Everywhere-All-At-Once": 4792,
+  "UZ-SLAMLab/ORB_SLAM3": 9151,
   "VAST-AI-Research/TripoSplat": 1389,
+  "VITA-Group/VLM-3R": 450,
   "Vid2Sim/Vid2Sim": 292,
   "VinAIResearch/Open3DIS": 138,
   "VladimirYugay/Gaussian-SLAM": 1185,
   "WongKinYiu/yolov7": 14157,
   "XiaohanLei/GaussNav": 220,
   "YOUNG-bit/open_semantic_slam": 315,
+  "Yangr116/VST": 213,
   "YanyuanQiao/Open-Nav": 187,
   "YkiWu/Point3R": 201,
   "YuLiu-LY/ArtGS": 82,
   "YvanYin/Metric3D": 2329,
+  "ZCMax/LLaVA-3D": 392,
   "ZhangCYG/OpenFunGraph": 57,
   "Zhefan-Xu/NavRL": 1643,
+  "Zhoues/RoboRefer": 268,
   "ZiboKNOW/BeliefMapNav": 51,
   "ZiwenZhuang/parkour": 1134,
+  "ZzZZCHS/Chat-Scene": 222,
   "aharley/alltracker": 432,
   "allenai/PoliFormer": 106,
   "allenai/embodied-clip": 131,
@@ -2497,6 +2766,8 @@
   "amaralibey/MixVPR": 337,
   "amaralibey/bag-of-queries": 195,
   "ant-research/FLARE": 728,
+  "apple/ARKitScenes": 971,
+  "apple/ml-cubifyanything": 448,
   "apple/ml-depth-pro": 5756,
   "autonomousvision/unimatch": 1383,
   "bagh2178/SG-Nav": 355,
@@ -2508,6 +2779,8 @@
   "buaa-colalab/OctoNav-R1": 78,
   "buaavrcg/LEGaussians": 174,
   "bytedance/R2Former": 104,
+  "cambrian-mllm/cambrian-s": 571,
+  "cambridgeltl/visual-spatial-reasoning": 150,
   "castacks/tartanairpy": 128,
   "chen-judge/AO-Planner": 49,
   "chen-judge/MapGPT": 138,
@@ -2527,31 +2800,36 @@
   "cvg/pixel-perfect-sfm": 1494,
   "cvg/pixloc": 802,
   "danijar/daydreamer": 466,
+  "daveredrum/ScanRefer": 305,
   "dcharatan/pixelsplat": 1284,
+  "diankun-wu/Spatial-MLLM": 494,
   "donydchen/mvsplat": 1312,
+  "embodied-generalist/embodied-generalist": 490,
   "eriksandstroem/Point-SLAM": 486,
   "ethz-mrl/OKVIS2-X": 418,
   "eureka-research/DrEureka": 946,
   "expectorlin/NavCoT": 144,
   "facebookresearch/EdgeTAM": 998,
   "facebookresearch/co-tracker": 5156,
-  "facebookresearch/dinov2": 13434,
-  "facebookresearch/dinov3": 11561,
+  "facebookresearch/dinov2": 13435,
+  "facebookresearch/dinov3": 11563,
   "facebookresearch/fast3r": 1592,
   "facebookresearch/habitat-lab": 3162,
   "facebookresearch/habitat-matterport3d-dataset": 216,
   "facebookresearch/mae": 8361,
   "facebookresearch/map-anything": 3823,
   "facebookresearch/mvdust3r": 605,
-  "facebookresearch/nwm": 698,
+  "facebookresearch/nwm": 699,
+  "facebookresearch/omni3d": 854,
   "facebookresearch/perception_models": 2387,
-  "facebookresearch/sam-3d-objects": 7526,
-  "facebookresearch/sam2": 20013,
-  "facebookresearch/sam3": 11999,
+  "facebookresearch/sam-3d-objects": 7527,
+  "facebookresearch/sam2": 20014,
+  "facebookresearch/sam3": 12000,
   "facebookresearch/segment-anything": 55030,
   "facebookresearch/vggsfm": 1429,
-  "facebookresearch/vggt": 14517,
-  "facebookresearch/vjepa2": 4778,
+  "facebookresearch/vggt": 14519,
+  "facebookresearch/vjepa2": 4779,
+  "fudan-zvg/spar": 97,
   "fuxiao0719/GeoWizard": 943,
   "gangweix/IGEV": 691,
   "gangweix/igev-plusplus": 328,
@@ -2559,16 +2837,17 @@
   "gaoxiang12/faster-lio": 1644,
   "gisbi-kim/scancontext_tro": 346,
   "gmberton/EigenPlaces": 163,
-  "gmberton/MegaLoc": 307,
+  "gmberton/MegaLoc": 309,
   "google-deepmind/mujoco_playground": 2255,
   "google-deepmind/tapnet": 2223,
   "google-research/Splat-SLAM": 363,
   "google-research/big_vision": 3553,
   "google-research/omniglue": 711,
   "google-research/scenic": 3844,
-  "graphdeco-inria/gaussian-splatting": 24221,
+  "graphdeco-inria/gaussian-splatting": 24225,
   "guikunchen/Awesome3DGS": 114,
   "gunagg/zson": 110,
+  "hanxunyu/Inst3D-LMM": 134,
   "haofeixu/gmflow": 804,
   "haosulab/ManiSkill": 3425,
   "hbb1/2d-gaussian-splatting": 3312,
@@ -2584,18 +2863,20 @@
   "hren20/NaiviBridger": 83,
   "hrh6666/MoE-Loco": 61,
   "idiap/ESLAM": 224,
+  "iris0329/SeeGround": 224,
   "isaac-sim/IsaacGymEnvs": 2952,
   "isaac-sim/IsaacLab": 8366,
   "isl-org/DPT": 2330,
   "isl-org/MiDaS": 5419,
   "isl-org/ZoeDepth": 2838,
   "jacobkrantz/VLN-CE": 892,
+  "johnson111788/SpatialReasoner": 45,
   "jzhzhang/NaVid-VLN-CE": 455,
   "jzhzhang/Uni-NaVid": 359,
+  "kaist-ami/Dr-Splat": 107,
   "kerrj/lerf": 734,
   "leggedrobotics/elevation_mapping_cupy": 1126,
   "leggedrobotics/fdm": 357,
-  "leggedrobotics/iPlanner": 370,
   "leggedrobotics/legged_gym": 3145,
   "leggedrobotics/robotic_world_model": 690,
   "leggedrobotics/viplanner": 677,
@@ -2604,7 +2885,8 @@
   "lpiccinelli-eth/UniK3D": 755,
   "lpiccinelli-eth/unidepth": 1272,
   "luccachiang/GSWorld": 230,
-  "lyuwenyu/RT-DETR": 5599,
+  "lyuwenyu/RT-DETR": 5600,
+  "manycore-research/SpatialLM": 5090,
   "maturk/dn-splatter": 847,
   "mega-sam/mega-sam": 1367,
   "megvii-research/CREStereo": 638,
@@ -2619,9 +2901,9 @@
   "naver/mast3r": 3132,
   "naver/must3r": 344,
   "naver/pow3r": 244,
-  "nepfaff/scalable-real2sim": 164,
+  "nepfaff/scalable-real2sim": 165,
   "nerfstudio-project/gsplat": 5801,
-  "nerfstudio-project/nerfstudio": 12076,
+  "nerfstudio-project/nerfstudio": 12078,
   "nianticlabs/mvsanywhere": 341,
   "nv-tlabs/3dgrut": 2461,
   "nv-tlabs/GEN3C": 1436,
@@ -2638,15 +2920,17 @@
   "princeton-vl/infinigen": 7334,
   "prs-eth/Marigold": 3240,
   "pypose/bae": 371,
+  "qizekun/OmniSpatial": 95,
   "qureshinomaan/SplatSim": 161,
   "rail-berkeley/crossformer": 283,
   "real-stanford/cow": 158,
-  "real-to-sim-to-real/RialToPolicyLearning": 222,
+  "real-to-sim-to-real/RialToPolicyLearning": 223,
   "rmurai0610/MASt3R-SLAM": 3218,
-  "robbyant/lingbot-map": 18112,
+  "robbyant/lingbot-map": 18115,
   "robodhruv/visualnav-transformer": 1327,
   "sair-lab/AirSLAM": 1211,
   "scannetpp/scannetpp": 411,
+  "scene-verse/SceneVerse": 291,
   "serizba/salad": 384,
   "sharinka0715/semantic-gaussians": 280,
   "sheng00125/LIV-GaussMap": 160,
@@ -2655,9 +2939,11 @@
   "sled-group/chat-with-nerf": 322,
   "spla-tam/SplaTAM": 2212,
   "sxyxs/SmartWay-Code": 20,
+  "thangvubk/SoftGroup": 461,
   "uynitsuj/real2render2real": 376,
   "vdorbala/LGX": 72,
   "verlab/accelerated_features": 1747,
+  "vision-x-nyu/thinking-in-space": 748,
   "vlmaps/vlmaps": 729,
   "vlongle/articulate-anything": 224,
   "wasahaiah/TRG-planner": 31,
@@ -2695,7 +2981,6 @@
   "2412.04453": 0,
   "2110.09460": null,
   "2210.03370": 0,
-  "2302.11434": null,
   "2306.14846": 7,
   "2310.00982": 0,
   "2310.07896": 0,
@@ -2720,7 +3005,6 @@
   "2309.05665": null,
   "2309.14341": 0,
   "2401.17583": 26,
-  "2203.14912": null,
   "2405.01792": null,
   "2007.11898": 0,
   "2106.14386": null,
@@ -3068,6 +3352,1760 @@
   "2605.16355": 3,
   "2010.11561": null,
   "2409.15634": null,
-  "2108.11544": null
+  "2108.11544": null,
+  "2401.12168": 30,
+  "2307.12981": 40,
+  "2111.08897": 0,
+  "2112.10482": 0,
+  "2406.01584": 0,
+  "2205.00363": 0,
+  "2203.01509": null,
+  "2311.18651": 0,
+  "2505.23747": 68,
+  "2312.08168": 0,
+  "2505.23764": 3,
+  "2309.05251": 0,
+  "2411.16537": 1,
+  "2312.16170": 1,
+  "2409.18125": 34,
+  "2505.20279": 5,
+  "2401.09340": 20,
+  "2412.00493": 17,
+  "2506.04308": 43,
+  "2503.22976": 3,
+  "2505.24625": 9,
+  "2405.10370": 12,
+  "2501.01428": 0,
+  "2506.03135": 41,
+  "2503.13111": 7,
+  "2506.07491": 54,
+  "2412.04383": 4,
+  "2504.20024": 0,
+  "2501.10074": 1,
+  "2503.00513": 2,
+  "2502.16652": 2,
+  "2507.12508": 27,
+  "2511.21688": 9,
+  "2507.23478": 17,
+  "2505.22657": null,
+  "2507.07984": 44,
+  "2509.13317": 14,
+  "2511.05491": 53,
+  "2412.14171": 24,
+  "2207.10660": 1,
+  "2210.03105": 0,
+  "1912.08830": 0,
+  "2311.12871": 8,
+  "2511.04670": 40
+ },
+ "arxiv": {
+  "2312.02126": {
+   "comments": "CVPR 2024. Website: https://spla-tam.github.io/",
+   "journal_ref": ""
+  },
+  "2201.05989": {
+   "comments": "To appear in ACM Transactions on Graphics (SIGGRAPH 2022). 15 pages, 13 figures, 3 tables",
+   "journal_ref": "ACM Trans. Graph. 41, 4, Article 102 (July 2022), 15 pages"
+  },
+  "2308.04079": {
+   "comments": "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/",
+   "journal_ref": "ACM Transactions on Graphics, volume 42(4), July 2023"
+  },
+  "2310.07896": {
+   "comments": "Project page https://general-navigation-models.github.io/nomad/",
+   "journal_ref": ""
+  },
+  "2208.04726": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2302.04264": {
+   "comments": "Project page at https://nerf.studio",
+   "journal_ref": ""
+  },
+  "2306.14846": {
+   "comments": "Accepted for oral presentation at CoRL 2023",
+   "journal_ref": ""
+  },
+  "2110.13309": {
+   "comments": "Accepted in NeurIPS 2021; project page at https://cshizhe.github.io/projects/vln_hamt.html; corrected a typo",
+   "journal_ref": ""
+  },
+  "2106.14386": {
+   "comments": "Accepted by IEEE Transactions on Robotics (18 pages, 15 figures)",
+   "journal_ref": ""
+  },
+  "2108.10470": {
+   "comments": "tech report on isaac-gym",
+   "journal_ref": ""
+  },
+  "2103.13413": {
+   "comments": "15 pages",
+   "journal_ref": ""
+  },
+  "2103.00020": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2106.14405": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2404.13696": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2307.07635": {
+   "comments": "Code and model weights are available at: https://co-tracker.github.io/",
+   "journal_ref": ""
+  },
+  "2304.02643": {
+   "comments": "Project web-page: https://segment-anything.com",
+   "journal_ref": ""
+  },
+  "2407.07775": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2410.19115": {
+   "comments": "Project page: https://wangrc.site/MoGePage/",
+   "journal_ref": ""
+  },
+  "2406.09756": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2312.14132": {
+   "comments": "fixing the ref for StaticThings3D dataset",
+   "journal_ref": ""
+  },
+  "2412.12392": {
+   "comments": "CVPR 2025 Highlight. The first two authors contributed equally to this work. Project Page: https://edexheim.github.io/mast3r-slam/",
+   "journal_ref": ""
+  },
+  "2502.01536": {
+   "comments": "Project Page: https://vr-robo.github.io/",
+   "journal_ref": ""
+  },
+  "2111.09888": {
+   "comments": "Published in CVPR 2022",
+   "journal_ref": ""
+  },
+  "2109.07982": {
+   "comments": "Submitted to IEEE Robotics and Automation Letters",
+   "journal_ref": ""
+  },
+  "2007.11898": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2107.04034": {
+   "comments": "RSS 2021. Webpage at https://ashish-kmr.github.io/rma-legged-robots/",
+   "journal_ref": ""
+  },
+  "2206.12403": {
+   "comments": "code: https://github.com/gunagg/zson",
+   "journal_ref": ""
+  },
+  "2309.05665": {
+   "comments": "CoRL 2023 (Oral). Project website at https://robot-parkour.github.io",
+   "journal_ref": ""
+  },
+  "2309.14341": {
+   "comments": "Website and videos at https://extreme-parkour.github.io/",
+   "journal_ref": ""
+  },
+  "2303.15343": {
+   "comments": "ICCV'23 Oral. arXiv v2: fix typo in pseudocode; v3: clarify t vs t' init; v4: add SigLIP Base, Large, Shape-Optimized 400M results. Models released at: https://github.com/google-research/big_vision. Xiaohua and Lucas contributed equally",
+   "journal_ref": ""
+  },
+  "2303.09553": {
+   "comments": "Project website can be found at https://lerf.io",
+   "journal_ref": ""
+  },
+  "2401.10891": {
+   "comments": "Accepted by CVPR 2024. Project page: https://depth-anything.github.io",
+   "journal_ref": ""
+  },
+  "2211.07638": {
+   "comments": "Oral presentation at CoRL 2022. Website at https://vision-locomotion.github.io",
+   "journal_ref": ""
+  },
+  "2403.18913": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2210.05714": {
+   "comments": "Accepted at the 2023 IEEE International Conference on Robotics and Automation (ICRA). Project page: https://vlmaps.github.io",
+   "journal_ref": ""
+  },
+  "2304.08069": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2405.01792": {
+   "comments": "",
+   "journal_ref": "Science Robotics, 2024, Vol 9, Issue 89"
+  },
+  "2412.04453": {
+   "comments": "Website: https://navila-bot.github.io/",
+   "journal_ref": ""
+  },
+  "2401.17583": {
+   "comments": "Published at RSS 2024, Project website: https://agile-but-safe.github.io/",
+   "journal_ref": ""
+  },
+  "2109.07547": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2110.09460": {
+   "comments": "This paper includes 8 pages, 10 figures, and 3 tables",
+   "journal_ref": ""
+  },
+  "2204.12876": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2301.04195": {
+   "comments": "Project website: https://isaac-orbit.github.io/",
+   "journal_ref": "IEEE Robotics and Automation Letters (Volume: 8, Issue: 6, June 2023)"
+  },
+  "2304.03047": {
+   "comments": "Project page: https://github.com/MarSaKi/ETPNav",
+   "journal_ref": ""
+  },
+  "2301.10602": {
+   "comments": "Accepted for ICRA 2023",
+   "journal_ref": ""
+  },
+  "2305.16986": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2401.14159": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2406.09414": {
+   "comments": "Project page: https://depth-anything-v2.github.io",
+   "journal_ref": ""
+  },
+  "2409.10161": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2409.06765": {
+   "comments": "17 pages, 2 figures, JMLR MLOSS",
+   "journal_ref": ""
+  },
+  "2403.03949": {
+   "comments": "Project page: https://real-to-sim-to-real.github.io/RialTo/",
+   "journal_ref": ""
+  },
+  "2412.06224": {
+   "comments": "Project page: https://pku-epic.github.io/Uni-NaVid/",
+   "journal_ref": ""
+  },
+  "2302.12288": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2212.03238": {
+   "comments": "Oral presentation at CoRL 2022. Website at https://gmargo11.github.io/walk-these-ways/",
+   "journal_ref": ""
+  },
+  "2309.16650": {
+   "comments": "Project page: https://concept-graphs.github.io/ Explainer video: https://youtu.be/mRhNkQwRYnc",
+   "journal_ref": ""
+  },
+  "2302.07241": {
+   "comments": "RSS 2023. Project page: https://concept-fusion.github.io Explainer video: https://www.youtube.com/watch?v=rkXgws8fiDs Code: https://github.com/concept-fusion/concept-fusion",
+   "journal_ref": ""
+  },
+  "2505.08712": {
+   "comments": "Project Page: https://wzcai99.github.io/navigation-diffusion-policy.github.io/",
+   "journal_ref": ""
+  },
+  "2404.15506": {
+   "comments": "Our project page is at https://JUGGHM.github.io/Metric3Dv2. Accpeted to TPAMI. arXiv admin note: text overlap with arXiv:2307.10984",
+   "journal_ref": "IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 46, no. 12, pp. 10579-10596, 2024"
+  },
+  "2509.13414": {
+   "comments": "3DV 2026. Project Page: https://map-anything.github.io/",
+   "journal_ref": ""
+  },
+  "2511.16719": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2306.14874": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2211.15654": {
+   "comments": "CVPR 2023. Project page: https://pengsongyou.github.io/openscene",
+   "journal_ref": ""
+  },
+  "2312.06741": {
+   "comments": "CVPR2024 Highlight. First two authors contributed equally to this work. Project Page: https://rmurai.co.uk/projects/GaussianSplattingSLAM/",
+   "journal_ref": ""
+  },
+  "2311.12775": {
+   "comments": "We identified a minor typographical error in Equation 6; We updated the paper accordingly. Project Webpage: https://anttwo.github.io/sugar/",
+   "journal_ref": ""
+  },
+  "2304.07193": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2202.11742": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2205.06230": {
+   "comments": "ECCV 2022 camera-ready version",
+   "journal_ref": ""
+  },
+  "2301.13166": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2308.00688": {
+   "comments": "IEEE RA-L 2023 (Presented at ICRA 2024)",
+   "journal_ref": ""
+  },
+  "2111.06377": {
+   "comments": "Tech report. arXiv v2: add more transfer learning results; v3: add robustness evaluation",
+   "journal_ref": ""
+  },
+  "2107.06829": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2108.10869": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2201.08117": {
+   "comments": "",
+   "journal_ref": "Science Robotics, 19 Jan 2022, Vol 7, Issue 62"
+  },
+  "2501.12387": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2505.12549": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2310.00982": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2408.14035": {
+   "comments": "30 pages, 31 figures, due to the limitation that 'The abstract field cannot exceed 1,920 characters', the abstract presented here is shorter than the one in the PDF file",
+   "journal_ref": ""
+  },
+  "2501.09898": {
+   "comments": "CVPR 2025",
+   "journal_ref": ""
+  },
+  "2412.03572": {
+   "comments": "CVPR 2025. Project page: https://www.amirbar.net/nwm/",
+   "journal_ref": ""
+  },
+  "2508.10104": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2507.13347": {
+   "comments": "Project page: https://yyfz.github.io/pi3/",
+   "journal_ref": ""
+  },
+  "2207.04429": {
+   "comments": "Project page https://sites.google.com/view/lmnav",
+   "journal_ref": ""
+  },
+  "2201.13360": {
+   "comments": "13 pages, 10 figures, published in Robotics Science and Systems (RSS) 2022 proceedings",
+   "journal_ref": ""
+  },
+  "2112.12130": {
+   "comments": "CVPR 2022, first two authors contributed equally. Project page: https://pengsongyou.github.io/nice-slam",
+   "journal_ref": ""
+  },
+  "2312.02145": {
+   "comments": "CVPR 2024 camera ready",
+   "journal_ref": ""
+  },
+  "2210.03370": {
+   "comments": "Presented at ICRA 2023",
+   "journal_ref": ""
+  },
+  "2209.15397": {
+   "comments": "8 pages",
+   "journal_ref": ""
+  },
+  "2306.13643": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2203.10421": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2401.17270": {
+   "comments": "Work still in progress. Code & models are available at: https://github.com/AILab-CVC/YOLO-World",
+   "journal_ref": ""
+  },
+  "2109.11978": {
+   "comments": "CoRL 2021 Project website: : https://leggedrobotics.github.io/legged_gym/ Video: https://youtu.be/8sO7VS3q8d0",
+   "journal_ref": ""
+  },
+  "2303.05499": {
+   "comments": "Code will be available at https://github.com/IDEA-Research/GroundingDINO",
+   "journal_ref": ""
+  },
+  "2402.15852": {
+   "comments": "Accepted by Robotics: Science and Systems (RSS 2024)",
+   "journal_ref": ""
+  },
+  "2501.03575": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2511.10647": {
+   "comments": "https://depth-anything-3.github.io/",
+   "journal_ref": ""
+  },
+  "2403.17888": {
+   "comments": "13 pages, 12 figures. Corrected Eq.7",
+   "journal_ref": ""
+  },
+  "2503.11651": {
+   "comments": "CVPR 2025, Project Page: https://vgg-t.github.io/",
+   "journal_ref": ""
+  },
+  "2408.00714": {
+   "comments": "Website: https://ai.meta.com/sam2",
+   "journal_ref": ""
+  },
+  "2403.17846": {
+   "comments": "Code and video are available at http://hovsg.github.io/",
+   "journal_ref": ""
+  },
+  "2312.03275": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2401.07745": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2312.02010": {
+   "comments": "Accepted by CVPR 2024 (14 pages, 3 figures)",
+   "journal_ref": ""
+  },
+  "2402.10670": {
+   "comments": "NAACL 2024 Findings",
+   "journal_ref": ""
+  },
+  "2404.01943": {
+   "comments": "Accepted by CVPR 2024. The code is available at https://github.com/MrZihan/HNR-VLN",
+   "journal_ref": ""
+  },
+  "2311.18482": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2004.02857": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2409.14296": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2312.17487": {
+   "comments": "32 pages, 5 figures",
+   "journal_ref": ""
+  },
+  "2308.10832": {
+   "comments": "ICCV 2023",
+   "journal_ref": ""
+  },
+  "2503.19199": {
+   "comments": "Accepted at CVPR 2025",
+   "journal_ref": ""
+  },
+  "2403.07376": {
+   "comments": "Accepted by TPAMI 2025",
+   "journal_ref": ""
+  },
+  "2504.06994": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2506.23468": {
+   "comments": "Accepted by ICCV 2025",
+   "journal_ref": ""
+  },
+  "2605.06317": {
+   "comments": "10 pages, 7 figures",
+   "journal_ref": ""
+  },
+  "2512.08186": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2403.07494": {
+   "comments": "IROS 2025",
+   "journal_ref": ""
+  },
+  "2508.10416": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2606.00095": {
+   "comments": "",
+   "journal_ref": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026, pp. 15243-15252"
+  },
+  "2502.14254": {
+   "comments": "8 pages, 4 figures",
+   "journal_ref": ""
+  },
+  "2507.05240": {
+   "comments": "Accepted to ICRA 2026",
+   "journal_ref": ""
+  },
+  "2103.15875": {
+   "comments": "Camera ready version. To be published in Proceedings of IEEE International Conference on Computer Vision (ICCV 2021) as Oral Presentation. Project page with more videos: https://shuaifengzhi.com/Semantic-NeRF/",
+   "journal_ref": ""
+  },
+  "2104.10831": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2101.06894": {
+   "comments": "34 pages, 25 figures, 9 tables. arXiv admin note: text overlap with arXiv:2002.06289",
+   "journal_ref": ""
+  },
+  "2306.13631": {
+   "comments": "NeurIPS 2023. Project page: https://openmask3d.github.io/",
+   "journal_ref": "NeurIPS 2023"
+  },
+  "2401.02695": {
+   "comments": "18 pages, 13 figures",
+   "journal_ref": ""
+  },
+  "2307.06135": {
+   "comments": "Accepted for oral presentation at the Conference on Robot Learning (CoRL), 2023. Project page can be found here: https://sayplan.github.io",
+   "journal_ref": ""
+  },
+  "2304.14377": {
+   "comments": "CVPR2023. First two authors contributed equally. Project page: https://hengyiwang.github.io/projects/CoSLAM",
+   "journal_ref": ""
+  },
+  "2406.20083": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2407.12366": {
+   "comments": "Accepted to ECCV 2024",
+   "journal_ref": ""
+  },
+  "2402.03246": {
+   "comments": "",
+   "journal_ref": "European Conference on Computer Vision (ECCV) 2024"
+  },
+  "2411.17735": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2503.01646": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2505.11383": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2402.13255": {
+   "comments": "Updated to November 2024",
+   "journal_ref": ""
+  },
+  "2503.10630": {
+   "comments": "Accepted to CVPR 2025. Project page: https://bagh2178.github.io/UniGoal/",
+   "journal_ref": ""
+  },
+  "2506.09839": {
+   "comments": "31 pages, 25 figures",
+   "journal_ref": ""
+  },
+  "2504.14478": {
+   "comments": "Accepted to IEEE Robotics and Automation Letters (RAL), August, 2025",
+   "journal_ref": ""
+  },
+  "2109.13494": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2207.00254": {
+   "comments": "Accepted to IEEE Transactions on Robotics (T-RO). 20 pages",
+   "journal_ref": "IEEE Transactions on Robotics (T-RO), 2023"
+  },
+  "2309.02436": {
+   "comments": "ICCV 2023. Code: https://github.com/youmi-zym/GO-SLAM - Project Page: https://youmi-zym.github.io/projects/GO-SLAM/",
+   "journal_ref": ""
+  },
+  "2307.12907": {
+   "comments": "Accepted by ICCV 2023. The code is available at https://github.com/MrZihan/GridMM",
+   "journal_ref": ""
+  },
+  "2311.11700": {
+   "comments": "Accepted to CVPR 2024(highlight). Project Page: https://gs-slam.github.io/",
+   "journal_ref": ""
+  },
+  "2402.12259": {
+   "comments": "CVPR 2024. Project page: https://kochsebastian.com/open3dsg",
+   "journal_ref": ""
+  },
+  "2401.07314": {
+   "comments": "LLM/VLM-based VLN Agents. Accepted to ACL 2024. Project: https://chen-judge.github.io/MapGPT/",
+   "journal_ref": ""
+  },
+  "1711.07280": {
+   "comments": "CVPR 2018 Spotlight presentation",
+   "journal_ref": ""
+  },
+  "2410.08189": {
+   "comments": "Accepted to NeurIPS 2024. Project page: https://bagh2178.github.io/SG-Nav/",
+   "journal_ref": ""
+  },
+  "2303.03480": {
+   "comments": "10 pages",
+   "journal_ref": "IEEE Robotics and Automation Letters 9.5 (2024) 4083-4090"
+  },
+  "2407.05890": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2601.18188": {
+   "comments": "27 pages, 11 figures",
+   "journal_ref": ""
+  },
+  "2605.26503": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2506.17221": {
+   "comments": "project page: vlnr1.github.io",
+   "journal_ref": ""
+  },
+  "2412.10137": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2502.00931": {
+   "comments": "",
+   "journal_ref": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026"
+  },
+  "2307.15644": {
+   "comments": "ICCV 2023",
+   "journal_ref": ""
+  },
+  "2312.16084": {
+   "comments": "CVPR 2024. Project Page: https://langsplat.github.io",
+   "journal_ref": ""
+  },
+  "2312.10070": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2301.06230": {
+   "comments": "Code: https://github.com/MISTLab/Swarm-SLAM",
+   "journal_ref": ""
+  },
+  "2309.12311": {
+   "comments": "Project website: https://chat-with-nerf.github.io/",
+   "journal_ref": ""
+  },
+  "2311.16728": {
+   "comments": "CVPR 2024. Code: https://github.com/HuajianUP/Photo-SLAM - Project Page: https://huajianup.github.io/research/Photo-SLAM/",
+   "journal_ref": ""
+  },
+  "2403.14158": {
+   "comments": "Accepted at CVPR 2024",
+   "journal_ref": ""
+  },
+  "2210.13641": {
+   "comments": "10 pages, 6 figures",
+   "journal_ref": ""
+  },
+  "2304.03410": {
+   "comments": "CVPR",
+   "journal_ref": ""
+  },
+  "2211.11704": {
+   "comments": "CVPR 2023 Highlight. Project page: https://www.idiap.ch/paper/eslam/",
+   "journal_ref": ""
+  },
+  "2203.12667": {
+   "comments": "19 pages. Accepted to ACL 2022",
+   "journal_ref": "ACL 2022, Long, pages 7606,7623, Dublin, Ireland. Association for Computational Linguistics"
+  },
+  "2107.00822": {
+   "comments": "",
+   "journal_ref": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021"
+  },
+  "2103.07899": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2409.18794": {
+   "comments": "Accepted by ICRA 2025",
+   "journal_ref": ""
+  },
+  "2506.06487": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2503.10069": {
+   "comments": "Accepted by IROS 2025. Project website: https://sxyxs.github.io/smartway/",
+   "journal_ref": ""
+  },
+  "2503.02247": {
+   "comments": "8 pages, 5 figures",
+   "journal_ref": "IROS 2025"
+  },
+  "2507.13019": {
+   "comments": "Accepted by ICCV 2025",
+   "journal_ref": ""
+  },
+  "2602.19308": {
+   "comments": "28 pages, 16 figures, 2 tables",
+   "journal_ref": ""
+  },
+  "2507.16443": {
+   "comments": "IEEE International Conference on Robotics & Automation (ICRA 2026)",
+   "journal_ref": ""
+  },
+  "2503.07909": {
+   "comments": "Paper accepted for IROS 2025",
+   "journal_ref": ""
+  },
+  "2509.10884": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2509.12129": {
+   "comments": "Project Page: https://pku-epic.github.io/NavFoM-Web/",
+   "journal_ref": ""
+  },
+  "2606.01565": {
+   "comments": "Published in NeurIPS 2025, address some typos",
+   "journal_ref": ""
+  },
+  "2309.10309": {
+   "comments": "8 pages, 5 figures",
+   "journal_ref": ""
+  },
+  "2303.02190": {
+   "comments": "Accepted at WACV 2023",
+   "journal_ref": ""
+  },
+  "2302.03594": {
+   "comments": "Video: https://youtu.be/tUXzqEZWg2w",
+   "journal_ref": ""
+  },
+  "2112.13659": {
+   "comments": "accepted by IEEE RA-L",
+   "journal_ref": ""
+  },
+  "2311.06430": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2404.10241": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2103.12352": {
+   "comments": "Typos, make pdf smaller",
+   "journal_ref": ""
+  },
+  "2103.01486": {
+   "comments": "Accepted to IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2021)",
+   "journal_ref": ""
+  },
+  "2401.01970": {
+   "comments": "Project page: https://xingxingzuo.github.io/fmgs",
+   "journal_ref": ""
+  },
+  "2403.15624": {
+   "comments": "Project page: see https://semantic-gaussians.github.io",
+   "journal_ref": ""
+  },
+  "2304.04278": {
+   "comments": "ICCV 2023. 18 Pages, 12 Figures",
+   "journal_ref": ""
+  },
+  "2311.15937": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2501.04279": {
+   "comments": "arXiv admin note: substantial text overlap with arXiv:2409.18743",
+   "journal_ref": ""
+  },
+  "2511.17889": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2404.06609": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2412.09082": {
+   "comments": "Accepted by CVPR 2025. A novel Long-Horizon Vision-Language Navigation task, project page: https://hcplab-sysu.github.io/LH-VLN/",
+   "journal_ref": ""
+  },
+  "2509.22548": {
+   "comments": "Accepted to ICLR 2026. Project page: https://miv-xjtu.github.io/JanusVLN.github.io/",
+   "journal_ref": ""
+  },
+  "2407.07035": {
+   "comments": "Authors contributed equally to this work, and supervisors contributed equal advising to this work; GitHub repository: https://github.com/zhangyuejoslin/VLN-Survey-with-Foundation-Models",
+   "journal_ref": ""
+  },
+  "2507.04047": {
+   "comments": "Embodied AI; 3D Vision Language Understanding; ICCV 2025 Highlight; https://mtu3d.github.io; Spatial intelligence",
+   "journal_ref": ""
+  },
+  "2509.25687": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2502.13451": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2312.10671": {
+   "comments": "CVPR 2024. Project page: https://open3dis.github.io/",
+   "journal_ref": ""
+  },
+  "2605.26500": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2403.12013": {
+   "comments": "Project page: https://fuxiao0719.github.io/projects/geowizard/",
+   "journal_ref": ""
+  },
+  "2307.10984": {
+   "comments": "Accepted to ICCV 2023. Won the championship in the 2nd Monocular Depth Estimation Challenge. The code is available at https://github.com/YvanYin/Metric3D",
+   "journal_ref": ""
+  },
+  "2211.05783": {
+   "comments": "TPAMI 2023, Project Page: https://haofeixu.github.io/unimatch, Code: https://github.com/autonomousvision/unimatch, Demo: https://huggingface.co/spaces/haofeixu/unimatch",
+   "journal_ref": ""
+  },
+  "2309.15462": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2407.07090": {
+   "comments": "Project page: https://gaussiantracer.github.io/. Published at SIGGRAPH Asia 2024",
+   "journal_ref": ""
+  },
+  "2403.14627": {
+   "comments": "ECCV2024, Project page: https://donydchen.github.io/mvsplat, Code: https://github.com/donydchen/mvsplat",
+   "journal_ref": ""
+  },
+  "2408.01654": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2405.16544": {
+   "comments": "21 pages",
+   "journal_ref": ""
+  },
+  "2503.16591": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2507.08364": {
+   "comments": "This paper has already been accepted to IROS2025. 8 pages",
+   "journal_ref": ""
+  },
+  "2412.14015": {
+   "comments": "CVPR 2025; Project page: https://PromptDA.github.io/",
+   "journal_ref": ""
+  },
+  "2501.01806": {
+   "comments": "Accepted by IEEE RA-L in Dec",
+   "journal_ref": ""
+  },
+  "2412.09401": {
+   "comments": "CVPR 2025",
+   "journal_ref": ""
+  },
+  "2502.15633": {
+   "comments": "ICRA 2025",
+   "journal_ref": "2025 IEEE International Conference on Robotics and Automation (ICRA) Robotics and Automation (ICRA), 2025 IEEE International Conference on. :11068-11074 May, 2025"
+  },
+  "2412.06974": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2505.10696": {
+   "comments": "Accepted for publication to IEEE/RSJ IROS 2025",
+   "journal_ref": ""
+  },
+  "2502.17237": {
+   "comments": "Tech Report",
+   "journal_ref": ""
+  },
+  "2506.02835": {
+   "comments": "",
+   "journal_ref": "Science Robotics 10.102 (2025): eads6192"
+  },
+  "2211.11644": {
+   "comments": "submitted for initial review; comments welcome",
+   "journal_ref": ""
+  },
+  "2307.14460": {
+   "comments": "14 pages, 2 figures",
+   "journal_ref": ""
+  },
+  "2308.11417": {
+   "comments": "ICCV 2023. Video: https://youtu.be/E6P9e2r6M8I , Project page: https://cy94.github.io/scannetpp/",
+   "journal_ref": ""
+  },
+  "2403.12550": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2406.01967": {
+   "comments": "Robotics: Science and Systems (RSS) 2024. Project website and open-source code: https://eureka-research.github.io/dr-eureka/",
+   "journal_ref": ""
+  },
+  "2408.16061": {
+   "comments": "Project page: \\url{https://hengyiwang.github.io/projects/spanner}",
+   "journal_ref": ""
+  },
+  "2410.24207": {
+   "comments": "Project page: https://noposplat.github.io/",
+   "journal_ref": ""
+  },
+  "2405.07364": {
+   "comments": "Accepted at CVPR 2024",
+   "journal_ref": ""
+  },
+  "2412.04463": {
+   "comments": "Project page: https://mega-sam.github.io/",
+   "journal_ref": ""
+  },
+  "2410.13862": {
+   "comments": "CVPR 2025, Project page: https://haofeixu.github.io/depthsplat/, Code: https://github.com/cvg/depthsplat",
+   "journal_ref": ""
+  },
+  "2505.10565": {
+   "comments": "Home page: https://prior-depth-anything.github.io/",
+   "journal_ref": ""
+  },
+  "2507.03737": {
+   "comments": "Accepted by ICCV2025",
+   "journal_ref": ""
+  },
+  "2504.09540": {
+   "comments": "Accepted by ACM MM 2025",
+   "journal_ref": ""
+  },
+  "2503.01661": {
+   "comments": "Accepted at CVPR 2025",
+   "journal_ref": ""
+  },
+  "2401.03890": {
+   "comments": "Accepted by ACM Computing Surveys; Paper list: https://github.com/guikunchen/Awesome3DGS ; Benchmark: https://github.com/guikunchen/3DGS-Benchmarks",
+   "journal_ref": ""
+  },
+  "2502.20110": {
+   "comments": "arXiv admin note: substantial text overlap with arXiv:2403.18913",
+   "journal_ref": ""
+  },
+  "2511.16624": {
+   "comments": "Website: https://ai.meta.com/sam3d/",
+   "journal_ref": ""
+  },
+  "2104.00681": {
+   "comments": "Accepted to CVPR 2021 as Oral Presentation. Project page: https://zju3dv.github.io/neuralrecon/",
+   "journal_ref": ""
+  },
+  "2208.08373": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2206.14176": {
+   "comments": "Website: https://danijar.com/daydreamer",
+   "journal_ref": ""
+  },
+  "2402.14505": {
+   "comments": "ICLR2024",
+   "journal_ref": ""
+  },
+  "2404.19264": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2402.13817": {
+   "comments": "Accepted to Robotics: Science and Systems, 2024. Code to be released at https://github.com/MIT-SPARK/Khronos Video available at https://www.youtube.com/watch?v=YsH6YIL5_kc",
+   "journal_ref": ""
+  },
+  "2307.10079": {
+   "comments": "",
+   "journal_ref": "Science Robotics 2023 Vol. 8, Issue 80, eade9548"
+  },
+  "2409.19152": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2409.02095": {
+   "comments": "Project webpage: https://depthcrafter.github.io",
+   "journal_ref": ""
+  },
+  "2403.17822": {
+   "comments": "To be published in 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+   "journal_ref": ""
+  },
+  "2601.17895": {
+   "comments": "Tech report, 19 pages, 15 figures and 4 tables",
+   "journal_ref": ""
+  },
+  "2509.26645": {
+   "comments": "Page: https://rover-xingyu.github.io/TTT3R/ Code: https://github.com/Inception3D/TTT3R",
+   "journal_ref": "International Conference on Learning Representations (ICLR), 2026"
+  },
+  "2501.02464": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2503.05077": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2503.17316": {
+   "comments": "CVPR 2025",
+   "journal_ref": ""
+  },
+  "2410.12262": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2501.09466": {
+   "comments": "https://insta360-research-team.github.io/DEFOM-Stereo/",
+   "journal_ref": "CVPR 2025"
+  },
+  "2506.09588": {
+   "comments": "Original draft prior to peer review. Significant revisions and new materials are expected after formal publication release",
+   "journal_ref": ""
+  },
+  "2507.11539": {
+   "comments": "Code is available at: https://github.com/wzzheng/StreamVGGT",
+   "journal_ref": ""
+  },
+  "2501.08286": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2510.10726": {
+   "comments": "Accepted to ICML 2026. Code: https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror Project page: https://3d-models.hunyuan.tencent.com/world/",
+   "journal_ref": ""
+  },
+  "2501.13928": {
+   "comments": "CVPR 2025. Project website: https://fast3r-3d.github.io/",
+   "journal_ref": ""
+  },
+  "2403.11496": {
+   "comments": "Accepted by The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024",
+   "journal_ref": ""
+  },
+  "2108.08291": {
+   "comments": "Accepted to ICCV 2021 for oral presentation",
+   "journal_ref": ""
+  },
+  "2103.04918": {
+   "comments": "This work has been accepted by IEEE Transactions on Emerging Topics in Computational Intelligence",
+   "journal_ref": ""
+  },
+  "2103.09213": {
+   "comments": "Accepted to CVPR 2021",
+   "journal_ref": ""
+  },
+  "2501.08672": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2501.14914": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2503.22430": {
+   "comments": "CVPR 2025",
+   "journal_ref": ""
+  },
+  "2412.12507": {
+   "comments": "Our paper has been accepted by CVPR 2025. For more details and updates, please visit our project website: https://research.nvidia.com/labs/toronto-ai/3DGUT",
+   "journal_ref": ""
+  },
+  "2503.08564": {
+   "comments": "9 pages, 10 figures",
+   "journal_ref": ""
+  },
+  "2401.09101": {
+   "comments": "20 pages",
+   "journal_ref": ""
+  },
+  "2409.15610": {
+   "comments": "9 pages, 9 figures, submitted to ICRA2025",
+   "journal_ref": ""
+  },
+  "2401.14857": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2503.08007": {
+   "comments": "Accepted by ICRA 2025",
+   "journal_ref": ""
+  },
+  "2512.03422": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2507.18255": {
+   "comments": "Accepted by ICCV 2025. Project page: https://zgchen33.github.io/LONG3R/",
+   "journal_ref": ""
+  },
+  "2507.02863": {
+   "comments": "Code is available at: https://github.com/YkiWu/Point3R",
+   "journal_ref": ""
+  },
+  "2512.11130": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2505.23716": {
+   "comments": "Project page: https://city-super.github.io/anysplat/",
+   "journal_ref": ""
+  },
+  "2409.12190": {
+   "comments": "",
+   "journal_ref": "IEEE Transactions on Robotics (T-RO), 2026"
+  },
+  "2604.14141": {
+   "comments": "Project page: https://technology.robbyant.com/lingbot-map Code: https://github.com/robbyant/lingbot-map",
+   "journal_ref": ""
+  },
+  "2312.12337": {
+   "comments": "Project page: https://dcharatan.github.io/pixelsplat",
+   "journal_ref": ""
+  },
+  "2312.04563": {
+   "comments": "8 figures. Project page: https://vggsfm.github.io/",
+   "journal_ref": ""
+  },
+  "2303.06615": {
+   "comments": "Accepted to CVPR 2023",
+   "journal_ref": ""
+  },
+  "2403.16095": {
+   "comments": "Project Page: https://zju3dv.github.io/cg-slam",
+   "journal_ref": ""
+  },
+  "2205.02824": {
+   "comments": "Accepted for publication at Robotics: Science and Systems (RSS) 2022",
+   "journal_ref": ""
+  },
+  "2402.19231": {
+   "comments": "Accepted by CVPR2024",
+   "journal_ref": ""
+  },
+  "2408.10154": {
+   "comments": "Project page: https://loopsplat.github.io/",
+   "journal_ref": ""
+  },
+  "2507.12462": {
+   "comments": "International Conference on Computer Vision, ICCV 2025. Huggingface Demo: https://huggingface.co/spaces/Yuxihenry/SpatialTrackerV2, Code: https://github.com/henry123-boy/SpaTrackerV2",
+   "journal_ref": ""
+  },
+  "2501.08643": {
+   "comments": "MonSter++: Unified Stereo Matching, Multi-view Stereo, and Real-time Stereo with Monodepth Priors, is the extended journal version of our earlier conference paper (arXiv:2501.08643) accepted to CVPR 2025",
+   "journal_ref": ""
+  },
+  "2510.04612": {
+   "comments": "IEEE Transactions on Robotics (T-RO) - Special Issue: Visual SLAM",
+   "journal_ref": ""
+  },
+  "2505.11164": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2504.03886": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2508.10893": {
+   "comments": "TL;DR: Streaming 4D reconstruction using causal transformer. Project page: https://nirvanalan.github.io/projects/stream3r",
+   "journal_ref": ""
+  },
+  "2502.12138": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2503.12660": {
+   "comments": "8 pages",
+   "journal_ref": ""
+  },
+  "2409.00638": {
+   "comments": "Accepted by TPAMI 2025",
+   "journal_ref": ""
+  },
+  "2410.03825": {
+   "comments": "Accepted by ICLR 25, Project page: https://monst3r-project.github.io/",
+   "journal_ref": ""
+  },
+  "2408.03520": {
+   "comments": "20 pages, 15 figures, 9 tables",
+   "journal_ref": ""
+  },
+  "2410.02073": {
+   "comments": "Published at ICLR 2025. Code and weights available at https://github.com/apple/ml-depth-pro",
+   "journal_ref": ""
+  },
+  "2505.14266": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2203.11483": {
+   "comments": "This work has been accepted to CVPR2022. The project link is https://github.com/megvii-research/CREStereo",
+   "journal_ref": ""
+  },
+  "2408.13740": {
+   "comments": "Accepted for IEEE Robotics and Automation Letters (RA-L)",
+   "journal_ref": ""
+  },
+  "2501.12375": {
+   "comments": "Project page: https://videodepthanything.github.io/",
+   "journal_ref": ""
+  },
+  "2401.12168": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2207.02696": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2306.12156": {
+   "comments": "Technical Report. The code is released at https://github.com/CASIA-IVA-Lab/FastSAM",
+   "journal_ref": ""
+  },
+  "2304.11968": {
+   "comments": "Tech-report",
+   "journal_ref": ""
+  },
+  "2407.20179": {
+   "comments": "CoRL 2024",
+   "journal_ref": ""
+  },
+  "2404.00210": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2406.03459": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2412.07679": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2503.03751": {
+   "comments": "To appear in CVPR 2025. Website: https://research.nvidia.com/labs/toronto-ai/GEN3C/",
+   "journal_ref": ""
+  },
+  "2504.10041": {
+   "comments": "",
+   "journal_ref": "The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025"
+  },
+  "2507.05198": {
+   "comments": "Project Page: https://embodiedreamer.github.io/",
+   "journal_ref": ""
+  },
+  "2509.20787": {
+   "comments": "Source code available at https://github.com/Intellindust-AI-Lab/DEIMv2",
+   "journal_ref": ""
+  },
+  "2411.14347": {
+   "comments": "Technical Report",
+   "journal_ref": ""
+  },
+  "2509.10813": {
+   "comments": "Accepted by NeurIPS 2025; Project page: https://marjordcpz.github.io/InternScenes.github.io",
+   "journal_ref": ""
+  },
+  "2504.15278": {
+   "comments": "Project page: https://drawer-art.github.io/",
+   "journal_ref": ""
+  },
+  "2501.06693": {
+   "comments": "Project page: https://metadriverse.github.io/vid2sim/",
+   "journal_ref": ""
+  },
+  "2503.00370": {
+   "comments": "Website: https://scalable-real2sim.github.io/",
+   "journal_ref": ""
+  },
+  "2505.09601": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2410.00425": {
+   "comments": "Project website: http://maniskill.ai/",
+   "journal_ref": ""
+  },
+  "2506.07310": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2505.20279": {
+   "comments": "Project Page: https://vlm-3r.github.io/",
+   "journal_ref": ""
+  },
+  "2109.08238": {
+   "comments": "21 pages, 14 figures",
+   "journal_ref": ""
+  },
+  "2104.00680": {
+   "comments": "Accepted to CVPR 2021. Project page: https://zju3dv.github.io/loftr/",
+   "journal_ref": ""
+  },
+  "2112.09106": {
+   "comments": "Technical report",
+   "journal_ref": ""
+  },
+  "2309.05251": {
+   "comments": "ICCV 2023",
+   "journal_ref": ""
+  },
+  "2312.00863": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2307.12981": {
+   "comments": "Project Page: : https://vis-www.cs.umass.edu/3dllm/",
+   "journal_ref": ""
+  },
+  "2306.01567": {
+   "comments": "NeurIPS 2023. We propose HQ-SAM to upgrade SAM for high-quality zero-shot segmentation. Github: https://github.com/SysCV/SAM-HQ",
+   "journal_ref": ""
+  },
+  "2306.14289": {
+   "comments": "First work to make SAM lightweight for mobile applications",
+   "journal_ref": ""
+  },
+  "2410.11831": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2306.09310": {
+   "comments": "Accepted to CVPR 2023, Camera Ready Version. Update 06/26/23: Change the open-source license to BSD",
+   "journal_ref": ""
+  },
+  "2503.08135": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2504.13181": {
+   "comments": "Updated refs, fixed typos, and added new COCO SotA: 66.0 val mAP! Code, models, and data at https://github.com/facebookresearch/perception_models",
+   "journal_ref": ""
+  },
+  "2511.19861": {
+   "comments": "Project Page: https://giga-world-0.github.io/",
+   "journal_ref": ""
+  },
+  "2505.02388": {
+   "comments": "CVPR 2025",
+   "journal_ref": ""
+  },
+  "2305.15404": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2605.16355": {
+   "comments": "19 pages, 16 figures, SIGGRAPH Conference Papers '26",
+   "journal_ref": ""
+  },
+  "2510.20813": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2504.18904": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2405.05941": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2010.11561": {
+   "comments": "Accepted by RA-L; Code: https://github.com/HKUST-Aerial-Robotics/FUEL; Video: https://www.youtube.com/watch?v=_dGgZUrWk-8",
+   "journal_ref": ""
+  },
+  "2202.00667": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2304.06718": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2305.06558": {
+   "comments": "8 pages, 3 figures; Technical Report",
+   "journal_ref": ""
+  },
+  "2311.06242": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2402.19432": {
+   "comments": "16 pages, 9 figures",
+   "journal_ref": ""
+  },
+  "2404.01440": {
+   "comments": "CVPR 2024",
+   "journal_ref": ""
+  },
+  "2306.09683": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2312.06709": {
+   "comments": "CVPR 2024 Version 3: CVPR Camera Ready, reconfigured full paper, table 1 is now more comprehensive Version 2: Added more acknowledgements and updated table 7 with more recent results. Ensured that the link in the abstract to our code is working properly Version 3: Fix broken hyperlinks",
+   "journal_ref": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 12490-12500"
+  },
+  "2211.03726": {
+   "comments": "Published in NeurIPS Datasets and Benchmarks track, 2022",
+   "journal_ref": ""
+  },
+  "2405.14458": {
+   "comments": "Code: https://github.com/THU-MIG/yolov10; NeurIPS 2024 Camera-ready Version",
+   "journal_ref": ""
+  },
+  "2406.01584": {
+   "comments": "NeurIPS 2024, Project Page: https://www.anjiecheng.me/SpatialRGPT",
+   "journal_ref": ""
+  },
+  "2411.16537": {
+   "comments": "CVPR 2025 (Oral); Project Website: https://chanh.ee/RoboSpatial",
+   "journal_ref": ""
+  },
+  "2510.20808": {
+   "comments": "Accepted for Publication as part of the Annual Review of Control, Robotics, and Autonomous Systems 2026",
+   "journal_ref": ""
+  },
+  "2502.19459": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2509.19480": {
+   "comments": "9 pages, 7 figures, 6 tables",
+   "journal_ref": ""
+  },
+  "2409.15634": {
+   "comments": "8 pages, 9 figures, 3 tables. Experiment video: https://youtu.be/EbeJW8-YlvI. Github Repo: https://github.com/Zhefan-Xu/NavRL",
+   "journal_ref": "IEEE Robotics and Automation Letters, 2025"
+  },
+  "2306.16740": {
+   "comments": "42 pages, 11 figures, 6 tables",
+   "journal_ref": ""
+  },
+  "2108.11544": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2111.08897": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2112.10482": {
+   "comments": "CVPR2022. The first three authors are equally contributed. Project page: https://github.com/ATR-DBI/ScanQA",
+   "journal_ref": ""
+  },
+  "2502.08844": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2409.18125": {
+   "comments": "Project page: https://zcmax.github.io/projects/LLaVA-3D/",
+   "journal_ref": ""
+  },
+  "2504.19322": {
+   "comments": "To be published in the proceedings of Robotics: Science and Systems (RSS) 2025",
+   "journal_ref": ""
+  },
+  "2503.17973": {
+   "comments": "Project Page: https://jianghanxiao.github.io/phystwin-web/",
+   "journal_ref": ""
+  },
+  "2410.07408": {
+   "comments": "CoRL 2024",
+   "journal_ref": ""
+  },
+  "2401.09340": {
+   "comments": "ECCV 2024",
+   "journal_ref": ""
+  },
+  "2405.12979": {
+   "comments": "CVPR 2024",
+   "journal_ref": ""
+  },
+  "2407.10943": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2504.10003": {
+   "comments": "",
+   "journal_ref": "ICRA 2025"
+  },
+  "2512.10675": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2411.11839": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2509.24527": {
+   "comments": "Website: https://danijar.com/dreamer4/",
+   "journal_ref": ""
+  },
+  "2506.09985": {
+   "comments": "48 pages, 19 figures",
+   "journal_ref": ""
+  },
+  "2403.04765": {
+   "comments": "CVPR 2024; Project page: https://zju3dv.github.io/efficientloftr",
+   "journal_ref": ""
+  },
+  "2501.07256": {
+   "comments": "Code will be released at https://github.com/facebookresearch/EdgeTAM",
+   "journal_ref": ""
+  },
+  "2505.23747": {
+   "comments": "22 pages",
+   "journal_ref": ""
+  },
+  "2311.18651": {
+   "comments": "Project Page: https://ll3da.github.io/",
+   "journal_ref": ""
+  },
+  "2310.13724": {
+   "comments": "Project page: http://aihabitat.org/habitat3",
+   "journal_ref": ""
+  },
+  "2312.16170": {
+   "comments": "A multi-modal, ego-centric 3D perception dataset and benchmark for holistic 3D scene understanding. Project page: http://tai-wang.github.io/embodiedscan",
+   "journal_ref": ""
+  },
+  "2205.00363": {
+   "comments": "TACL camera-ready version; code and data available at https://github.com/cambridgeltl/visual-spatial-reasoning",
+   "journal_ref": ""
+  },
+  "2203.01509": {
+   "comments": "To appear in CVPR 2022",
+   "journal_ref": ""
+  },
+  "2104.13921": {
+   "comments": "ICLR Camera Ready",
+   "journal_ref": "ICLR 2022"
+  },
+  "2111.13680": {
+   "comments": "CVPR 2022, Oral",
+   "journal_ref": ""
+  },
+  "2403.11625": {
+   "comments": "journal",
+   "journal_ref": ""
+  },
+  "2509.19296": {
+   "comments": "Project Page: https://research.nvidia.com/labs/toronto-ai/lyra/",
+   "journal_ref": ""
+  },
+  "2510.15352": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2410.13882": {
+   "comments": "ICLR 2025. Project website and open-source code: https://articulate-anything.github.io/",
+   "journal_ref": ""
+  },
+  "2501.10100": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2502.13187": {
+   "comments": "19 pages, 6 figures, 5 tables",
+   "journal_ref": ""
+  },
+  "2412.04234": {
+   "comments": "CVPR 2025",
+   "journal_ref": ""
+  },
+  "2411.11922": {
+   "comments": "Project page is available at https://yangchris11.github.io/samurai/",
+   "journal_ref": ""
+  },
+  "2312.08168": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2408.11812": {
+   "comments": "Project website at https://crossformer-model.github.io/",
+   "journal_ref": ""
+  },
+  "2511.15706": {
+   "comments": "ECCV 2026 camera ready",
+   "journal_ref": ""
+  },
+  "2502.08645": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2404.19174": {
+   "comments": "CVPR 2024; Source code available at www.verlab.dcc.ufmg.br/descriptors/xfeat_cvpr24",
+   "journal_ref": ""
+  },
+  "2505.23764": {
+   "comments": "ICLR 2026 Camera ready. 38 pages. Project page: https://runsenxu.com/projects/MMSI_Bench",
+   "journal_ref": ""
+  },
+  "2403.02751": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2510.25257": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2210.03105": {
+   "comments": "ICRA 2023 camera-ready version",
+   "journal_ref": ""
+  },
+  "2405.10370": {
+   "comments": "Preprint",
+   "journal_ref": ""
+  },
+  "2507.07984": {
+   "comments": "30 pages, a benchmark designed to evaluate Online Spatio-Temporal understanding from the perspective of an agent actively exploring a scene. Project Page: https://rbler1234.github.io/OSTBench.github.io/",
+   "journal_ref": ""
+  },
+  "2412.14171": {
+   "comments": "Project page: https://vision-x-nyu.github.io/thinking-in-space.github.io/",
+   "journal_ref": ""
+  },
+  "2506.07491": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2501.10074": {
+   "comments": "Under Review",
+   "journal_ref": ""
+  },
+  "2506.04308": {
+   "comments": "Accepted by NeurIPS 2025. Project page: https://zhoues.github.io/RoboRefer/",
+   "journal_ref": ""
+  },
+  "2506.03135": {
+   "comments": "ICLR 2026",
+   "journal_ref": ""
+  },
+  "2503.13111": {
+   "comments": "ICCV 2025",
+   "journal_ref": ""
+  },
+  "2511.05491": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2311.12871": {
+   "comments": "ICML 2024. The first four authors contribute equally. Project page: https://embodied-generalist.github.io",
+   "journal_ref": ""
+  },
+  "2502.16652": {
+   "comments": "20 pages",
+   "journal_ref": ""
+  },
+  "2501.01428": {
+   "comments": "Project page: https://gpt4scene.github.io/",
+   "journal_ref": ""
+  },
+  "2505.24625": {
+   "comments": "Accepted by NeurIPS 2025",
+   "journal_ref": ""
+  },
+  "2503.22976": {
+   "comments": "Project page: https://logosroboticsgroup.github.io/SPAR/",
+   "journal_ref": ""
+  },
+  "2504.20024": {
+   "comments": "Project page: https://spatial-reasoner.github.io",
+   "journal_ref": ""
+  },
+  "2207.10660": {
+   "comments": "CVPR 2023, Project website: https://omni3d.garrickbrazil.com/",
+   "journal_ref": ""
+  },
+  "2511.21688": {
+   "comments": "code are released at https://github.com/InternRobotics/G2VLM",
+   "journal_ref": ""
+  },
+  "2503.00513": {
+   "comments": "CVPR2025, Code Link: https://github.com/hanxunyu/Inst3D-LMM",
+   "journal_ref": ""
+  },
+  "2412.04383": {
+   "comments": "CVPR 2025; 21 pages, 10 figures, 10 tables; Code at https://seeground.github.io/",
+   "journal_ref": ""
+  },
+  "2511.04670": {
+   "comments": "Website: https://cambrian-mllm.github.io/",
+   "journal_ref": ""
+  },
+  "2509.13317": {
+   "comments": "Project Website: https://www.anjiecheng.me/sr3d",
+   "journal_ref": ""
+  },
+  "1912.08830": {
+   "comments": "Project page: https://daveredrum.github.io/ScanRefer/",
+   "journal_ref": ""
+  },
+  "2507.23478": {
+   "comments": "",
+   "journal_ref": ""
+  },
+  "2507.12508": {
+   "comments": "Project Page: https://umass-embodied-agi.github.io/MindJourney",
+   "journal_ref": ""
+  },
+  "2505.22657": {
+   "comments": "demos at: https://3dllm-mem.github.io",
+   "journal_ref": ""
+  },
+  "2412.00493": {
+   "comments": "Accepted by CVPR 2025",
+   "journal_ref": ""
+  }
  }
 }
